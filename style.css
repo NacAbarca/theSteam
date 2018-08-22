@@ -1,0 +1,1102 @@
+/*
+Theme Name: TheSteam
+Description:  The Steam restaurant WordPress theme
+Author: Web Dot Inc
+Author URI: www.webdotinc.com
+Theme URI: http://www.webdotinc.net/thesteam
+Tags: featured-image-header, featured-images, theme-options, threaded-comments
+Version: 1.8.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: thesteam
+*/
+
+/* WordPress Core
+
+Single blog post or dish entry ~ bird's eye view of style application.
+
+body
+ main
+   .wp-caption - default WordPress caption style
+     .wp-caption.alignnone - no alignment
+     .wp-caption.alignleft - aligns item left
+     .wp-caption.alignright - aligns item right
+     .wp-caption img - styles the caption image
+   .screen-reader-text - style meant only for screen readers
+     .screen-reader-text:focus - focused style of screen-reader-text class
+   .sticky - sticky posts style to highlight in blog-list
+   .widget_tag_cloud - tag-cloud widget styling
+     .tagcloud - tag-cloud widget items container
+     .tagcloud a - style for all the anchors in the tag-cloud widget
+       .tagcloud a:hover - style for all the anchors in the tag-cloud widget when hovered
+   .widget_nav_menu - nav-menu widget styling
+     .menu-testing-menu-container - menu widget items container
+     .menu-testing-menu-container ul, ol, dl - menu widget items like unordered/ ordered lists styling
+   .widget_archive - archive widget styling
+     .widget_archive select - style for the select of the widget
+     .widget_archive ul - style for the unordered list of the widget
+       .widget_archive ul:before - style for the unordered list of the widget applied with :before
+   .widget_categories - categories widget items container
+     .widget_categories select - style for the select of the widget
+     .widget_categories ul - style for the unordered list of the widget
+       .widget_categories ul:first-child:before - style for the unordered list of the widget applied with :before
+   .widget_meta - meta widget items container
+     .widget_meta ul - style for the unordered list of the widget
+       .widget_meta ul:before - style for the unordered list of the widget applied with :before
+       .widget_meta ul a - style for the anchors included in the unordered list of the widget
+         .widget_meta ul a:hover - style for the anchors included in the unordered list of the widget when hovered
+   .widget_recent_comments  - recent comments widget items container
+     .widget_recent_comments ul - style for the unordered list of the widget
+       .widget_recent_comments ul:before - style for the unordered list of the widget applied with :before
+     #recentcomments li - style for the list items of the widget
+   .widget_recent_entries  - recent entries widget items container
+     .widget_recent_entries ul - style for the unordered list of the widget
+       .widget_recent_entries ul:before - style for the unordered list of the widget applied with :before
+       .widget_recent_entries ul a - style for the anchors included in the unordered list of the widget
+   .wp-post-image - styles the post image in the blog list
+   .comment-reply-title - the title of the reply in the comment area
+     .comment-notes - style fot the comment notes in the comment area
+ .loading-animation - style for the loading/transition animation
+
+[Color codes]
+
+Background:	#ffffff (white)
+Content:	#444444 (dark gray)
+Header h1:	#424242 (dark gray)
+Header h2:	#444444 (dark gray)
+Header h5:  #5D5959 (light gray)
+Footer:		#282828 (dark gray)
+SubFooter:  #221e1e (light black)
+
+menu-buttons:   #8bafaf (blue)
+widget borders: #daba6f (light bourbon)
+a (standard):	#565656 (dark gray)
+a (visited):	#008CBA (light blue)
+a (active):	    #008CBA (light blue)
+
+-------------------------------------------------------------- */
+
+/* WordPress standard style */
+
+.alignnone {
+    margin: 5px 0 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+/* WordPress standard style */
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+/* WordPress standard style */
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    text-align: center;
+    border: 1px solid #f0f0f0;
+    max-width: 96%;
+    padding: 5px 3px 10px;
+}
+
+.wp-caption .wp-caption-text {
+    color: #686868;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    font-style: italic;
+    line-height: 1.6153846154;
+    padding-top: 0.5384615385em;
+}
+
+/* WordPress standard style */
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    max-width: 98.5%;
+    border: 0 none;
+}
+
+/* WordPress standard style */
+
+.wp-caption p.wp-caption-text {
+    margin: 0;
+    padding: 0 4px 5px;
+    font-size: 11px;
+    line-height: 17px;
+}
+
+/* End of WordPress standard style */
+
+/* Text meant only for screen readers. */
+
+.screen-reader-text {
+    position: absolute !important; /*important is needed to override Bootstrap*/
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+.screen-reader-text:focus {
+    display: block;
+    padding: 15px 23px 14px;
+    top: 5px;
+    left: 5px;
+    width: auto;
+    color: #21759b;
+    background-color: #f1f1f1;
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+    height: auto;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important; /*important is needed to override Bootstrap*/
+    z-index: 100000;
+}
+
+/* Sticky posts style */
+
+.sticky {
+    padding: 0;
+    background: none;
+    border: none;
+}
+
+.bypostauthor {
+    background: #f7f7f7;
+}
+
+/* Tag cloud widget style */
+
+.widget_tag_cloud {
+    margin: 2em auto;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.tagcloud {
+    margin-top: 15px;
+    color: black;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+    -ms-word-wrap: break-word;
+    font-size: 10px;
+}
+
+.tagcloud a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+.tagcloud a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+.tagcloud:before {
+    display: block;
+    position: relative;
+    left: 0;
+    top: -8px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    text-align: center;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+/* End of tag cloud widget style */
+
+/* Nav menu widget style */
+
+.widget_nav_menu {
+    text-align: center;
+    margin: 2em auto;
+    padding: 15px;
+    width: 100%;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.menu-testing-menu-container {
+    text-align: justify;
+}
+
+.menu-testing-menu-container ul,
+ol,
+dl {
+    margin-top: 1em;
+    margin-bottom: 17px;
+    font-family: inherit;
+    line-height: 1.6;
+    list-style-type: none;
+}
+
+.menu {
+    margin-left: 0;
+    font-size: 16px;
+}
+
+.widget_nav_menu ul {
+    text-align: initial;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    list-style: none;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.widget_nav_menu:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0;
+    top: 39px;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.widget_nav_menu a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    line-height: 25px;
+    white-space: pre-wrap;
+}
+
+.widget_nav_menu a:hover {
+    margin-left: 0;
+    text-decoration: none;
+    color: #008CBA;
+    line-height: 25px;
+    white-space: pre-wrap;
+}
+
+.sub-menu {
+    font-size: 14px;
+}
+
+.sub-menu ul,
+menu,
+dir {
+    display: block;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 12px;
+    -webkit-margin-end: 0;
+    margin-top: 5px;
+    list-style-type: none;
+}
+
+.menu-testing-menu-container a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    line-height: 25px;
+    white-space: pre-wrap;
+}
+
+.menu-testing-menu-container a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    line-height: 25px;
+    white-space: pre-wrap;
+}
+
+/* End of nav menu widget style */
+
+/* Archive widget style */
+
+.widget_archive {
+    text-align: center;
+    padding: 16px;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_archive select {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_archive ul {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 1em;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    list-style: none;
+}
+
+.widget_archive ul:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 0;
+    top: -9px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.widget_archive ul a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    line-height: 25px;
+    word-break: break-all;
+}
+
+.widget_archive ul a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    line-height: 25px;
+    word-break: break-all;
+}
+
+/* End of archive widget style */
+
+/* Categories widget style */
+
+.widget_categories {
+    text-align: center;
+    margin: 2em auto;
+    padding: 25px;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_categories select {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_categories ul {
+    text-align: start;
+    margin-bottom: 0;
+    margin-top: 1em;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    list-style: none;
+}
+
+.widget_categories ul.children {
+    margin-top: 0;
+}
+
+.widget_categories ul:first-child:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    top: -9px;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.widget_categories ul a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+.widget_categories ul a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+/* End of categories widget style */
+
+/* Meta widget style */
+
+.widget_meta {
+    text-align: center;
+    padding: 16px;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_meta ul {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    list-style: none;
+}
+
+.widget_meta ul:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    top: -9px;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.widget_meta ul a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+.widget_meta ul a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+/* End of meta widget style */
+
+/* Recent comments widget style */
+
+.widget_recent_comments {
+    text-align: center;
+    padding: 16px;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_recent_comments ul {
+    margin-top: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    list-style: none;
+}
+
+.widget_recent_comments ul:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 0;
+    top: -9px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+#recentcomments li {
+    margin-bottom: 16px;
+    word-wrap: break-word;
+    -ms-word-wrap: break-word;
+}
+
+.comment-author-link {
+    font-weight: 700;
+}
+
+.recentcomments a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+.recentcomments a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+/* End of recent comments widget style */
+
+.widget_search {
+    margin: 2em auto;
+}
+
+/* Recent entries widget style */
+
+.widget_recent_entries {
+    text-align: center;
+    padding: 16px;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_recent_entries ul {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 2em;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    list-style: none;
+}
+
+.widget_recent_entries ul:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    top: -14px;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.widget_recent_entries ul a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+.widget_recent_entries ul a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    line-height: 25px;
+}
+.widget_recent_entries li {
+    margin-bottom: 15px;
+}
+
+/* End of recent entries widget style */
+
+/* Text widget style */
+
+.widget_text {
+    text-align: center;
+    padding: 25px;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.textwidget {
+    text-align: start;
+    margin-bottom: 0;
+    margin-top: 2em;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    list-style: none;
+}
+
+.textwidget:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    top: -14px;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.textwidget a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+.textwidget a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+/* End of text widget style */
+
+/* Pages widget style */
+
+.widget_pages {
+    text-align: center;
+    padding: 25px;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_pages ul {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 17px;
+    font-family: inherit;
+    line-height: 1.6;
+    list-style-type: none;
+}
+
+.widget_pages ul:first-child:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    top: -10px;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.widget_pages ul a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+    white-space: pre-wrap;
+}
+
+.widget_pages ul a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+    white-space: pre-wrap;
+}
+
+/* End of pages widget style */
+
+/* Calendar widget style */
+
+.widget_calendar {
+    text-align: center;
+    padding: 1em 0 0;
+    margin: 2em auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#wp-calendar {
+    margin-right: auto;
+    margin-bottom: 1em;
+    margin-left: auto;
+}
+
+#prev a {
+    margin-left: 1.35em;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+#prev a:hover {
+    margin-left: 1.35em;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+#wp-calendar caption {
+    margin-bottom: 15px;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+#next a {
+    margin-left: 1.35em;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+#next a:hover {
+    margin-left: 1.35em;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+/* End of calendar widget style */
+
+/* RSS widget style */
+
+.widget_rss {
+    text-align: center;
+    margin: 2em auto;
+    padding: 16px;
+    font-family: 'Playfair Display', serif;
+    font-size: 21px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.widget_rss ul {
+    text-align: initial;
+    margin-top: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    list-style: none;
+}
+
+.widget_rss ul:before {
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 0;
+    top: -9px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1px;
+    width: 62%;
+    content: "";
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.widget_rss ul li {
+    margin-bottom: 16px;
+}
+
+.rsswidget a {
+    margin-left: 0;
+    color: #565656;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+.rsswidget a:hover {
+    margin-left: 0;
+    color: #008CBA;
+    text-decoration: none;
+    word-break: break-all;
+    line-height: 25px;
+}
+
+/* End of RSS widget style */
+
+.gallery {
+    margin: 0 -1.1666667% 1.75em;
+}
+
+.gallery-icon img {
+    margin: 0 auto;
+}
+
+.entry-content a img,
+.entry-summary a img,
+.comment-content a img,
+.textwidget a img {
+    display: block;
+}
+
+figure.gallery-item {
+    display: inline-block;
+    max-width: 33.33%;
+    padding: 0 1.1400652% 2.2801304%;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+}
+
+.gallery-columns-1 .gallery-item {
+    max-width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+    max-width: 50%;
+}
+
+.gallery-columns-4 .gallery-item {
+    max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+    max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+    max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+    max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+    max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+    max-width: 11.11%;
+}
+
+.gallery-columns-10 .gallery-item {
+    max-width: 10%;
+}
+
+.gallery-caption {
+    color: #686868;
+    display: block;
+    font-size: 0.8125rem;
+    font-style: italic;
+    line-height: 1.6153846154;
+    padding-top: 0.5384615385em;
+}
+
+.wp-post-image {
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+}
+
+.sticky .wp-post-image {
+    width: 95%;
+}
+
+figure {
+    margin: 0;
+}
+
+table thead tr th,
+table thead tr td {
+    padding: 9px;
+}
+
+table tr th,
+table tr td {
+    padding: 5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    clear: both;
+    line-height: 1.5;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+/* Admin bar on small devices - because of Bootstrap */
+
+body {
+    position: initial !important;
+}
+
+a:hover,
+a:focus {
+    color: #007095;
+}
+
+/* Comment area style */
+
+@media only screen and (min-width: 1px) {
+
+    .comment-reply-title {
+        color: #404040;
+        font-family: 'Playfair Display', serif;
+        font-size: 19px;
+    }
+
+    .comment-notes {
+        font-size: 13px;
+    }
+}
+
+.anchor-content {
+    display: none;
+}
+
+.brick {
+    background-color: rgba(0, 0, 0, 0.45);
+}
+
+.no-js #loader {
+    display: none;
+}
+
+/* Loading animation style*/
+
+.loading-animation {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('inc/ring.gif') center no-repeat #fff;
+    background-size: 100px 100px;
+}

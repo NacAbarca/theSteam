@@ -1,0 +1,513 @@
+/* Theme Name: TheSteam
+ * Theme URI: http://www.webdotinc.net/thesteam
+ * Author: WDI
+ * Author URI: http://webdotinc.com
+ * Description: WebDotInc TheSteam Theme
+ * Version: 1.0.0
+ * License: Standard License
+ * License URL: https://themeforest.net/licenses/standard
+ * Text Domain: thesteam
+ */
+
+/*------------------------------------------------------------------
+
+[Mobile Menu Stylesheet]
+
+Project:        TheSteam
+Version:        1.0
+Last change:    22/08/16
+Primary use:    Restaurant Theme
+
+Mobile menu contains the same elements as the main
+menu of the corresponding page, but with a different
+layout to facilitate display on mobile devices
+
+Bird's eye view of page structure:
+
+nav.over-menu-visible - mobile menu container
+    div.over-ul - mobile menu button container
+        div.over-menu-button -the actual button of the mobile menu
+    div.overlay
+      div.wrap
+        ul.wrap-nav - list of items from the mobile menu
+          li.over-menu-li - home and other navigation options like categories or front-page user selected items
+        div.social - social items from the mobile menu
+          a - social pages links
+            div.social-icon-mobile - font awesome social pages icons
+
+[Color codes]
+
+Background:	#333333 (gray)
+Content:	#ffffff (white)
+Header h1:	#424242 (dark gray)
+Header h2:	#444444 (dark gray)
+Header h5:  #5D5959 (light gray)
+Footer:		#282828 (dark gray)
+SubFooter:  #221e1e (light black)
+
+li a (standard): #99cccc (light blue)
+ul li a (standard): #f0f0f0 (light gray)
+a (visited):	#99cccc (light blue)
+a (active):	    #99cccc (light blue)
+
+[Typography]
+
+menu-items: Open Sans, sans-serif
+
+-------------------------------------------------------------------*/
+
+.over-ul {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+li.over-menu-li {
+    padding: 0;
+    margin: 0;
+}
+
+nav.over-menu-visible {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    overflow: hidden;
+    z-index: 400;
+    line-height: 1.4;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 1px 4px 0 #999999;
+    -moz-box-shadow: 0 1px 4px 0 #999999;
+    box-shadow: 0 1px 4px 0 #999999;
+}
+
+nav.over-menu-visible ul {
+    text-align: center;
+}
+
+nav.over-menu-visible ul li {
+    display: inline-block;
+}
+
+nav.over-menu-visible ul li a {
+    color: #333333;
+    display: inline-block;
+    padding: 1em 3em;
+    text-decoration: none;
+    border-bottom: 2px solid #fff;
+    -webkit-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+    font-size: 16px;
+}
+
+nav.over-menu-visible ul li a:hover {
+    color: #99cccc;
+}
+
+/*Styling open close button */
+
+.button.over-menu-button {
+    display: inline;
+    position: absolute;
+    right: 1em;
+    top: 6px;
+    z-index: 999;
+    font-size: 3rem;
+    background-color: transparent;
+}
+
+.button.over-menu-button a {
+    text-decoration: none;
+}
+
+.btn-open:after {
+    content: "\f0c9";
+    font-family: "FontAwesome";
+    -webkit-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+}
+
+.btn-open:hover:after {
+    color: #99cccc;
+}
+
+.btn-close:after {
+    width: 24px;
+    z-index: 999;
+    color: #fff;
+    content: "\f00d";
+    font-family: "FontAwesome";
+    -webkit-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+}
+
+.btn-close:hover:after {
+    color: #99cccc;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: #333333;
+    overflow: auto;
+    z-index: 399;
+}
+
+.wrap {
+    color: #e9e9e9;
+    text-align: center;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.wrap ul.wrap-nav {
+    text-transform: capitalize;
+    padding: 50px 0 0;
+}
+
+.wrap ul.wrap-nav li {
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    width: 23%;
+    position: relative;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.wrap ul.wrap-nav li a {
+    color: #99cccc;
+    display: inline-block;
+    padding: 8px 0;
+    text-decoration: none;
+    -webkit-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+}
+
+.wrap ul.wrap-nav li a:hover {
+    color: #f0f0f0;
+}
+
+.wrap ul.wrap-nav ul {
+    padding: 0;
+}
+
+.wrap ul.wrap-nav ul li {
+    display: block;
+    font-size: 13px;
+    width: 100%;
+    color: #e9e9e9;
+}
+
+.wrap ul.wrap-nav ul li a {
+    color: #f0f0f0;
+}
+
+.wrap ul.wrap-nav ul li a:hover {
+    color: #99cccc;
+}
+
+.fa-phone-mobile {
+    font-size: 1.25em;
+    line-height: .75em;
+    vertical-align: -13%;
+}
+
+.mobile-menu-title {
+    float: left;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+/* Small devices title line style */
+
+.title-line {
+    display: block;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@media screen and (min-width: 1px) {
+
+    .title-line {
+        position: relative;
+        color: #444444;
+        font-family: 'open sans', sans-serif;
+        font-size: 18px;
+    }
+
+    .mobile-menu-title {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width: 290px) {
+    .mobile-menu-title {
+        margin-left: 15px;
+    }
+}
+
+@media screen and (min-width: 320px) {
+    .mobile-menu-title {
+        margin-left: 25px;
+    }
+    .title-line {
+        font-size: 19px;
+    }
+}
+
+@media screen and (min-width: 641px) {
+
+    .title-line {
+        max-width: 500px;
+        font-size: 20px;
+        z-index: 110;
+    }
+
+    .mobile-menu-title {
+        margin-left: 35px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .mobile-menu-title {
+        margin-left: 50px;
+    }
+}
+
+@media only screen and (min-width: 64.0625em) {
+
+    .title-line {
+        position: absolute;
+        text-align: left;
+        top: 0;
+        margin-top: 29px;
+        margin-left: 50px;
+        color: #FFFFFF;
+        font-family: 'Playfair Display', serif;
+        font-weight: 600;
+        font-size: 19px;
+        word-break: break-all;
+    }
+}
+
+@media only screen and (min-width: 90.063em) {
+
+    .title-line {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 2600px) {
+
+    .social {
+        font-size: 25px;
+        padding-bottom: 15px;
+    }
+
+    .social p {
+        padding: 15px 0 7px 0;
+        line-height: 15px;
+        font-size: 14px;
+    }
+
+    .social p a {
+        color: #99cccc;
+        text-decoration: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .social-icon-mobile {
+        width: 80px;
+        height: 50px;
+        background: #e9e9e9;
+        color: #333333;
+        display: inline-block;
+        -webkit-transition: all 0.2s linear 0s;
+        transition: all 0.2s linear 0s;
+        margin: 15px 0 5px;
+    }
+
+    .social-icon-mobile:hover {
+        background: #99cccc;
+        color: #f0f0f0;
+    }
+
+    .social-icon-mobile i {
+        margin-top: 12px;
+    }
+
+    .phone-reservation-number {
+        margin-top: 5px;
+        line-height: 63px;
+        color: #99cccc;
+        cursor: pointer;
+        letter-spacing: 3px;
+
+    }
+
+    .wrap ul.wrap-nav > li {
+        width: 100%;
+        padding: 5px 0;
+        border-bottom: 1px solid #575757;
+        font-size: 14px;
+    }
+
+    .wrap {
+        color: #e9e9e9;
+        text-align: center;
+        max-width: 60%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 48em) {
+
+    .wrap ul.wrap-nav {
+        padding: 50px 0 0;
+    }
+
+    .wrap ul.wrap-nav > li {
+        width: 100%;
+        padding: 5px 0;
+        border-bottom: 1px solid #575757;
+        font-size: 14px;
+    }
+
+    .social {
+        color: #c1c1c1;
+        font-size: 25px;
+        padding: 0 0 15px;
+    }
+
+    .social-icon-mobile {
+        width: 100%;
+        height: 50px;
+        background: #fff;
+        color: #333333;
+        display: block;
+        margin: 15px 0 5px;
+    }
+
+    .contact-number-align {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .mobile-home-button {
+        max-width: 100%;
+    }
+
+    .mobile-about-button {
+        max-width: 100%;
+    }
+
+    li.social {
+        min-width: 100%;
+    }
+
+    .phone-reservation-number {
+        padding-top: 30px;
+        line-height: 40px;
+        color: #99cccc;
+        cursor: pointer;
+        letter-spacing: 3px;
+    }
+
+    .wrap {
+        color: #e9e9e9;
+        text-align: center;
+        max-width: 90%;
+        margin: 0 auto;
+    }
+}
+
+.over-menu-button {
+    float: right;
+    margin-right: 35px;
+    margin-top: 10px;
+    height: 46px;
+    width: 24px;
+    font-size: 27px;
+}
+
+li.over-menu-li ul {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.wrap ul.wrap-nav > li {
+    text-transform: uppercase;
+}
+
+ul {
+    margin-left: 0;
+}
+
+.wrap ul.wrap-nav li > li.social {
+    width: 70%;
+}
+
+.social p {
+    color: #e5e5e5;
+    font-family: "Open Sans", sans-serif;
+}
+
+p.contact-number-align {
+    margin: 0;
+}
+
+.social p.mobile-copyright {
+    line-height: 25px;
+    word-wrap: break-word;
+}
+
+.fa-lg-mobile-menu {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+    margin-right: 6px;
+}
+
+.mobile-menu-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 58px;
+    max-width: 200px;
+}
+
+.bloglist-menu-color {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.title-line {
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: 200px;
+    max-height: 58px;
+    font-size: 20px;
+    z-index: 110;
+}
+
+a.title-line {
+    height: 58px;
+}
+
+.title-top {
+    margin-top: 30px;
+}

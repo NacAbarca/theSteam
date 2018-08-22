@@ -1,0 +1,1 @@
+Please consult documentation regarding special settings for header image settings

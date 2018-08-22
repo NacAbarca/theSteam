@@ -1,0 +1,244 @@
+/* Theme Name: TheSteam
+ * Theme URI: http://www.webdotinc.net/thesteam
+ * Author: WDI
+ * Author URI: http://webdotinc.com
+ * Description: WebDotInc TheSteam Theme
+ * Version: 1.0.0
+ * License: Standard License
+ * License URL: https://themeforest.net/licenses/standard
+ * Text Domain: thesteam
+ */
+
+/*------------------------------------------------------------------
+[Footer Special Stylesheet]
+
+Project:        TheSteam
+Version:        1.0
+Last change:    22/08/16
+Primary use:    Restaurant Theme
+
+This style is used to display a nice layout for almost all the pages, except for the front page.
+Therefore it overrides some of the previously defined styles. For more information on how
+this style is loaded please check theme's functions file.
+
+Bird's eye view of footer structure:
+
+footer.footer-bg
+  div.footer-title
+    h1.footer-logo
+    hr.footer-title-hr
+    div.above-footer - css drawn symbols
+    div.contact-details-container - phone number, location, etc
+    div.footer-left-social media - social media links
+      div.social-media-symbols
+          span.social-media-margin
+            a.fa - icons
+    div.footer-right-column
+      div.contact-fields-footer - contact form
+        label - labels for each input
+            input - several inputs for contact
+        label - label for textarea
+            textarea - message box
+        input.message-button - send button
+    div.subfooter - location and copyright
+
+[Color codes]
+
+Content:	#ffffff (white)
+Header h1:	#ffffff (white)
+Footer:		#282828 (dark gray)
+SubFooter:  #221e1e (light black)
+
+a (standard):	#ffffff (white)
+a (visited):	#003f54 (light blue)
+a (active):	    #003f54 (light blue)
+social symbols: #64809C (light blue)
+tag line:       #005684 (orient blue)
+
+[Typography]
+
+Header:     Open Sans, sans-serif
+Header h4:  Open Sans, sans-serif
+paragraphs: Open Sans, sans-serif
+
+-------------------------------------------------------------------*/
+
+p {
+    margin-bottom: 0.4em;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.8;
+    word-wrap: break-word;
+}
+
+.above {
+    font-size: 0.7em;
+    line-height: 0.4em;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 5px;
+    max-width: 100%;
+    font-weight: 700;
+}
+
+input:not([type]),
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+input[type="color"],
+textarea {
+    display: block;
+    margin: 0 0 1rem 0;
+    padding: 0.5rem;
+    color: rgba(0, 0, 0, 0.75);
+    font-family: inherit;
+    font-size: 1em;
+    height: 2em;
+    width: 100%;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border-radius: 0;
+    background-color: #FFFFFF;
+    border: 1px solid #cccccc;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    -webkit-transition: border-color 0.15s linear, background 0.15s linear;
+    transition: border-color 0.15s linear, background 0.15s linear;
+}
+
+a {
+    margin-left: 0;
+    color: #c1901e;
+    line-height: inherit;
+    text-decoration: none;
+    word-break: normal;
+}
+
+.column-special {
+    float: left;
+    padding: 0 0 0 0;
+}
+
+.field-background-special:active,
+.field-background-special:focus{
+    color: #666666;
+}
+
+/* WebKit, Edge */
+
+.field-background-special::-webkit-input-placeholder {
+    color: #666666;
+}
+
+/* Mozilla Firefox 4 -> 18 */
+.field-background-special:-moz-placeholder {
+    color: #666666;
+    opacity:  1;
+}
+
+/* Firefox 19 onwards */
+
+.field-background-special::-moz-placeholder {
+    color: #666666;
+    opacity:  1;
+}
+
+/* IE 10-11 */
+
+.field-background-special:-ms-input-placeholder {
+    color: #666666;
+}
+
+/* WebKit, Edge */
+
+.field-background-special:active::-webkit-input-placeholder,
+.field-background-special:focus::-webkit-input-placeholder {
+    color: #000000;
+}
+
+/* Mozilla Firefox 4 -> 18 */
+
+.field-background-special:active:-moz-placeholder,
+.field-background-special:focus:-moz-placeholder {
+    color: #000000;
+    opacity:  1;
+}
+
+/* Firefox 19 onwards */
+
+.field-background-special:active::-moz-placeholder,
+.field-background-special:focus::-moz-placeholder {
+    color: #000000;
+    opacity:  1;
+}
+
+/* IE 10-11 */
+
+.field-background-special:active:-ms-input-placeholder,
+.field-background-special:focus:-ms-input-placeholder {
+    color: #000000;
+}
+
+.subfooter-symbol {
+    margin-right: 10px;
+}
+
+.ts-clearfix:after {
+    display: block;
+    visibility: hidden;
+    height: 0;
+    content: ".";
+    clear: both;
+}
+
+.ts-clearfix {
+    display: inline-block;
+}
+
+/* Hides from IE-mac */
+
+* html .ts-clearfix {
+    height: 1%;
+}
+
+.ts-clearfix {
+    display: block;
+}
+
+/* End hide from IE-mac */
+
+.title-line {
+    z-index: 407;
+}
+
+input.message-button {
+    height: inherit;
+    background-color: #64809c;
+    color: #282828;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    border: 2px solid #64809C;
+}
+
+.logo-footer {
+    line-height: 1.1;
+}
+
+p {
+    line-height: 1.8;
+}

@@ -1,0 +1,23 @@
+/*------------------------------------------------------------------
+[Editor Stylesheet]
+
+Project:        TheSteam
+Version:        1.0
+Last change:    22/08/16
+Primary use:    Restaurant Theme
+License:        GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: thesteam
+
+This style is used for setting tinymce font in post editor
+
+Bird's eye view of style structure:
+
+body#tinymce.wp-editor - Overrides TinyMCE's style by setting margins and font
+-------------------------------------------------------------------*/
+
+body#tinymce.wp-editor {
+    margin-bottom: 20px;
+    font-family: Open Sans, sans-serif;
+    text-rendering: optimizeLegibility;
+}

@@ -1,0 +1,458 @@
+/* Theme Name: TheSteam
+ * Theme URI: http://www.webdotinc.net/thesteam
+ * Author: WDI
+ * Author URI: http://webdotinc.com
+ * Description: WebDotInc TheSteam Theme
+ * Version: 1.0.0
+ * License: Standard License
+ * License URL: https://themeforest.net/licenses/standard
+ * Text Domain: thesteam
+ */
+
+/*------------------------------------------------------------------
+
+[Administration Menus Stylesheet]
+
+Project:        TheSteam
+Version:        1.0
+Last change:    22/08/16
+Primary use:    Restaurant Theme
+
+This style is used for the administration panel in theme
+and plugin created pages. Specific functions in the plugin
+are used to display pages of the menu.
+
+These pages are visible only to the website administrator.
+
+Bird's eye view of the page structure:
+
+body
+    #wpcontent - style for the main container of the page
+        .ui-widget-header - style for the header of the table
+        .ui-tabs .ui-tabs-nav - style for the navigation elements of the table
+            .reservations-table - style for the reservations section of the table
+            .ui-tabs .ui-tabs-nav li - style for the list items of the table
+            .ui-corner-all, .ui-corner-br et all - sharpened corners for navigation items
+                                                 - repetition needed to override wp styles
+            .form-table, .form-table td, .form-table td p, .form-table th - style for the forms of the table
+        p.submit - style for the submit paragraph
+                .wp-core-ui .button et all - style for submission buttons in plugin related pages
+        #map-table-container - style for the map container
+            .map-section-table - style for the map section
+
+[Color codes]
+
+background:	#ffffff (white)
+alternative background: #0085ba (light blue)
+border: #dddddd (light gray)
+
+[Typography]
+
+Body:	Open Sans, sans-serif
+
+-------------------------------------------------------------------*/
+
+#wpcontent{
+    padding-right: 20px;
+    background-color: #eff1f5;
+}
+
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-right,
+.ui-corner-tr,
+.wp-core-ui .button,
+.wp-core-ui .button-primary,
+.wp-core-ui .button-secondary {
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    font-weight: normal;
+    color: #fff;
+    background: #0085ba;
+    border: 1px solid #0073aa;
+}
+
+.ui-tabs {
+    position: relative;
+    padding: 0;
+}
+
+.ui-tabs .ui-tabs-nav {
+    margin: 1em 0 1.6em;
+    padding: 0;
+    width: 100%;
+    background-color: transparent;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-bottom: 0;
+    border-radius: 0;
+}
+
+p.submit {
+    text-align: left;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #fafafa;
+}
+
+.form-table th {
+    vertical-align: top;
+    text-align: left;
+    padding: 10px 10px 10px 35px;
+    width: 200px;
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+.ui-widget-header {
+    border: 0;
+}
+
+.ui-tabs {
+    margin-top: 10px;
+    font-family: 'Roboto','Segoe UI','Helvetica Neue',Helvetica,sans-serif;
+}
+
+.form-table td {
+    padding: 10px 10px;
+}
+
+ul#adminmenu a.wp-has-current-submenu:after,
+ul#adminmenu>li.current>a.current:after {
+    border-right-color: #ffffff;
+}
+
+body {
+    background: #ffffff;
+}
+
+.ui-tabs .ui-tabs-nav li {
+    margin: 10px 10px 0 0;
+}
+
+.reservations-table{
+    width: 100%;
+}
+
+.form-table,
+.form-table td,
+.form-table td p,
+.form-table th {
+    font-family: 'Roboto','Segoe UI','Helvetica Neue',Helvetica,sans-serif;
+}
+
+#map-table-container{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    border: 1px solid #dddddd;
+    background-color: #fff;
+    border-radius: 0;
+    box-shadow: 0 1px 13px rgba(0,0,0,0.03), 0 1px 2px rgba(0,0,0,0.08);
+    box-sizing: border-box;
+    padding: 1.4em;
+}
+
+.map-section-table{
+    margin-left: 18px;
+}
+
+input#currency {
+    height: 32px;
+    width: 120px;
+}
+
+@media screen and (max-width: 782px) {
+
+    .auto-fold #wpcontent {
+        position: relative;
+        margin-left: 5px;
+        padding-left: 20px;
+    }
+
+    #profile-page .form-table textarea,
+    .form-table span.description,
+    .form-table td input[type=text],
+    .form-table td input[type=password],
+    .form-table td input[type=email],
+    .form-table td select,
+    .form-table td textarea {
+        width: 100%;
+    }
+
+    .form-table {
+        width: 90%;
+    }
+
+    #google-map-selection {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 782px) and (max-width: 840px) {
+
+    input#map-longitude{
+        max-width: 441px;
+    }
+
+    #google-map-selection {
+        width: 650px;
+    }
+}
+
+.ui-tabs .ui-tabs-panel {
+    display: block;
+    background-color: #fff;
+    border-radius: 0;
+    box-shadow: 0 1px 13px rgba(0,0,0,0.03), 0 1px 2px rgba(0,0,0,0.08);
+    box-sizing: border-box;
+    padding: 1.4em;
+}
+
+.ui-widget-content {
+    background: #eff1f5;
+}
+
+.ui-widget-content {
+    border: none;
+}
+
+.ui-state-active a,
+.ui-state-active a:link,
+.ui-state-active a:visited {
+    color: #fff;
+
+}
+
+
+.wp-person a:focus .gravatar, a:focus, a:focus .media-icon img {
+    color: #124964;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+    border: 1px solid #b9a57b;
+    background: #b9a57b;
+    font-weight: normal;
+    color: #454545;
+    transition: all 0.3s ease;
+}
+
+.ui-state-default:hover,
+.ui-widget-content .ui-state-default:hover,
+.ui-widget-header .ui-state-default:hover {
+    background: #9b8868;
+    font-weight: normal;
+    color: #454545;
+    transition: all 0.3s ease;
+}
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+    float: left;
+    padding: 13px 1em;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    font-weight: 500;
+    color: #000;
+    background: #3F4D59;
+    border: 1px solid #3F4D59;
+    transition: all 0.3s ease;
+}
+
+.ui-state-active:hover,
+.ui-widget-content .ui-state-active:hover,
+.ui-widget-header .ui-state-active:hover {
+    font-weight: 500;
+    background: #3a424f;
+    border-color: #3a424f;
+}
+
+.ui-state-default a,
+.ui-state-default a:link,
+.ui-state-default a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.wp-core-ui .button-primary {
+    height: 45px;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 14px;
+    font-weight: 500;
+    background: #76323f;
+    border-color: #76323f;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    font-family: 'Roboto','Segoe UI','Helvetica Neue',Helvetica,sans-serif;
+    opacity: .8;
+    transition: all 0.3s ease;
+}
+
+.wp-core-ui .button-primary.focus,
+.wp-core-ui .button-primary.hover,
+.wp-core-ui .button-primary:focus,
+.wp-core-ui .button-primary:hover {
+    background: #76323f;
+    border-color: #76323f;
+    color: #fff;
+}
+
+.wp-core-ui .button-primary:hover {
+    opacity: 1;
+}
+
+.admin-subtitle-container {
+    display: inline-block;
+}
+
+.admin-subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.59);
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+span.fa {
+    color: #ab7b18;
+    margin-right: 8px;
+    font-size: 19px;
+    min-width: 25px;
+    text-align: center;
+}
+
+span.fa-2x {
+    font-size: 2em;
+}
+
+.form-table {
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+#phone-num-visible,
+#dish_enabled,
+#number-of-dishtypes,
+#menu-book-hover-preview,
+#menu-book-dark-filter {
+    width: 100%;
+}
+
+.setting {
+    max-width: 450px;
+}
+
+.setting-description {
+    font-style: italic;
+    font-size: 13px;
+    color: #807070;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #dedede;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+
+.form-table td p.setting-description {
+    margin-top: 5px;
+}
+
+.form-table td p.setting-description {
+    font-style: italic;
+    font-size: 13px;
+}
+
+.form-table td p {
+    margin-top: 19px;
+}
+
+.select-top-align {
+    margin-top: 45px;
+    width: 120px;
+}
+
+.select-top-align-social{
+    margin-top: 45px;
+    height: 32px;
+    width: 135px;
+}
+
+.cuisine {
+    width: 165px;
+}
+
+.special-top-align,
+.wp-admin select {
+    height: 32px;
+}
+
+input[type=text]:focus,
+input[type=search]:focus,
+input[type=radio]:focus,
+input[type=tel]:focus,
+input[type=time]:focus,
+input[type=url]:focus,
+input[type=week]:focus,
+input[type=password]:focus,
+input[type=checkbox]:focus,
+input[type=color]:focus,
+input[type=date]:focus,
+input[type=datetime]:focus,
+input[type=datetime-local]:focus,
+input[type=email]:focus,
+input[type=month]:focus,
+input[type=number]:focus,
+select:focus, textarea:focus {
+    border-color: #ab7b4a;
+    -webkit-box-shadow: 0 0 2px rgb(171, 123, 24);
+    box-shadow: 0 0 2px rgb(171, 123, 24);
+}
+
+.ui-draggable {
+    background-color: #fff;
+}
+
+.reservation-field {
+    width: 100%;
+    margin-top: 45px;
+    height: 32px;
+}
+
+.reservation-text-field{
+    width: 100%;
+    margin-top: 45px;
+}
+
+.map-text-field {
+    width: 100%;
+}
+
+.setting-title {
+    font-size: 15px;
+}
+

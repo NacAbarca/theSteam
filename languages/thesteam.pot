@@ -1,0 +1,2288 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: TheSteam\n"
+"POT-Creation-Date: 2017-08-20 22:06+0300\n"
+"PO-Revision-Date: 2016-12-14 21:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:29
+msgid "Ooops!"
+msgstr ""
+
+#: 404.php:31
+msgid "No results found..."
+msgstr ""
+
+#: 404.php:35
+msgid "Try something from below:"
+msgstr ""
+
+#: classes/suggested-items.php:117
+msgid "Untitled"
+msgstr ""
+
+#: comments.php:21
+msgid ""
+"This post is protected with a password. Please enter the password to view "
+"comments."
+msgstr ""
+
+#: comments.php:27
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:27
+msgid " so far:"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: customizer.php:23
+msgid "The"
+msgstr ""
+
+#: customizer.php:27
+msgid "STEAM"
+msgstr ""
+
+#: customizer.php:29
+msgid "RESTAURANT"
+msgstr ""
+
+#: customizer.php:36
+msgid "A History Of Delightful Memories"
+msgstr ""
+
+#: customizer.php:37
+msgid ""
+"For many years we served delicious food to our customers and we hope to see "
+"you here and taste our great dishes. Our restaurant changed the way people "
+"see food for the last twenty six years and we hope you will discover our "
+"traditions and culinary choices already tested by the best reviewers in the "
+"world. Our mission is to provide the best dining experience for all our "
+"customers depending on their varied tastes. Eat smart and stay healthy with "
+"our food."
+msgstr ""
+
+#: customizer.php:39
+msgid "Our Specialities"
+msgstr ""
+
+#: customizer.php:41
+msgid ""
+"From fresh seafood to delicate desserts, everything looks and tastes really "
+"exquisitely."
+msgstr ""
+
+#: customizer.php:44 functions.php:3879
+msgid "MENU"
+msgstr ""
+
+#: customizer.php:45
+msgid "Take a journey into our specialties"
+msgstr ""
+
+#: customizer.php:46 customizer.php:48
+msgid "SEND US A MESSAGE"
+msgstr ""
+
+#: customizer.php:47
+msgid "WE ARE SOCIAL"
+msgstr ""
+
+#: customizer.php:49
+msgid "LET`S KEEP IN TOUCH"
+msgstr ""
+
+#: customizer.php:56 functions.php:3884
+msgid "BLOG"
+msgstr ""
+
+#: customizer.php:57
+msgid "Enjoy our finest posts!"
+msgstr ""
+
+#: customizer.php:59
+msgid "ONLINE RESERVATION"
+msgstr ""
+
+#: customizer.php:60
+msgid "We have made your favorite dish for dinner"
+msgstr ""
+
+#: customizer.php:62
+msgid "Reserve by phone"
+msgstr ""
+
+#: customizer.php:63
+msgid ""
+"We take reservations for lunch and dinner. To make a reservation, please "
+"select the date and time and fill in your contact information in the "
+"designated section or call us at (027) 8338 145 between 10 am - 6 pm."
+msgstr ""
+
+#: customizer.php:64
+msgid "We do not book the bar area, we leave this for walk-in guests."
+msgstr ""
+
+#: customizer.php:66
+msgid "THE FINEST RESTAURANT IN"
+msgstr ""
+
+#: customizer.php:67
+msgid "New York City"
+msgstr ""
+
+#: customizer.php:95
+msgid "Undefined field"
+msgstr ""
+
+#: customizer.php:99
+msgid "Undefined key"
+msgstr ""
+
+#: customizer.php:133
+msgid "Text or logo"
+msgstr ""
+
+#: customizer.php:137
+msgid "Text"
+msgstr ""
+
+#: customizer.php:138
+msgid "Logo"
+msgstr ""
+
+#: customizer.php:159
+msgid "Please select the main logo image (max. recommended size 250 x 360 px)"
+msgstr ""
+
+#: customizer.php:181
+msgid "First line of text"
+msgstr ""
+
+#: customizer.php:206
+msgid "First line of text color"
+msgstr ""
+
+#: customizer.php:228
+msgid "Second line of text"
+msgstr ""
+
+#: customizer.php:253
+msgid "Second line of text color"
+msgstr ""
+
+#: customizer.php:275
+msgid "Third line of text"
+msgstr ""
+
+#: customizer.php:299
+msgid "Third line of text color"
+msgstr ""
+
+#: customizer.php:352
+msgid "Animations"
+msgstr ""
+
+#: customizer.php:353
+msgid "Theme animations settings"
+msgstr ""
+
+#: customizer.php:371 functions.php:2026 functions.php:2050 functions.php:2074
+#: functions.php:2099 functions.php:2123 functions.php:2146 functions.php:2168
+#: functions.php:2190 functions.php:2212 functions.php:2235 functions.php:2258
+#: functions.php:2354 functions.php:2568 functions.php:2592 functions.php:2615
+#: functions.php:2669 functions.php:2854 functions.php:2878 functions.php:2902
+#: functions.php:2925 functions.php:2948 functions.php:2971 functions.php:2994
+#: functions.php:3053 functions.php:3110 functions.php:3178 functions.php:3201
+msgid "Yes"
+msgstr ""
+
+#: customizer.php:372 functions.php:2031 functions.php:2055 functions.php:2079
+#: functions.php:2104 functions.php:2128 functions.php:2151 functions.php:2173
+#: functions.php:2195 functions.php:2217 functions.php:2240 functions.php:2263
+#: functions.php:2359 functions.php:2573 functions.php:2597 functions.php:2620
+#: functions.php:2674 functions.php:2859 functions.php:2883 functions.php:2907
+#: functions.php:2930 functions.php:2953 functions.php:2976 functions.php:2999
+#: functions.php:3058 functions.php:3115 functions.php:3183 functions.php:3206
+msgid "No"
+msgstr ""
+
+#: customizer.php:384
+msgid "Select Header Logo Animation:"
+msgstr ""
+
+#: customizer.php:385
+msgid "Available only for Logo Image"
+msgstr ""
+
+#: customizer.php:399
+msgid "Select About Section Animation:"
+msgstr ""
+
+#: customizer.php:400
+msgid "Available only for About Section"
+msgstr ""
+
+#: customizer.php:428
+msgid "Select Reservations Section Animation:"
+msgstr ""
+
+#: customizer.php:429
+msgid "Available only for Reservations Section"
+msgstr ""
+
+#: customizer.php:448
+msgid "Desktop navbar"
+msgstr ""
+
+#: customizer.php:449
+msgid "Frontpage Desktop Navbar settings"
+msgstr ""
+
+#: customizer.php:472
+msgid "Menu filter color"
+msgstr ""
+
+#: customizer.php:500
+msgid "Menu filter color when sticky"
+msgstr ""
+
+#: customizer.php:528
+msgid "Navbar items colors - when sticky"
+msgstr ""
+
+#: customizer.php:556
+msgid "Navbar items colors - when not sticky"
+msgstr ""
+
+#: customizer.php:584
+msgid "Navbar items colors when hovered"
+msgstr ""
+
+#: customizer.php:612
+msgid ""
+"Navbar items underline colors when hovered (save & refresh to see changes)"
+msgstr ""
+
+#: customizer.php:639
+msgid "Please select the nav-bar logo image (max size: 250 x 48 px)"
+msgstr ""
+
+#: customizer.php:659
+msgid "Restaurant description"
+msgstr ""
+
+#: customizer.php:660
+msgid "Restaurant description section theme settings"
+msgstr ""
+
+#: customizer.php:681
+msgid "Curtain Images"
+msgstr ""
+
+#: customizer.php:685
+msgid "Manual selection"
+msgstr ""
+
+#: customizer.php:686
+msgid "Instagram"
+msgstr ""
+
+#: customizer.php:701
+msgid "Inactive! Please install PHP Curl plugin!"
+msgstr ""
+
+#: customizer.php:708
+#, php-format
+msgid "Instagram API KEY %s"
+msgstr ""
+
+#: customizer.php:731
+msgid "Please select curtain image 1"
+msgstr ""
+
+#: customizer.php:755
+msgid "Please select curtain image 2"
+msgstr ""
+
+#: customizer.php:779
+msgid "Please select curtain image 3"
+msgstr ""
+
+#: customizer.php:803
+msgid "Please select curtain image 4"
+msgstr ""
+
+#: customizer.php:827
+msgid "Restaurant description - title - max. 50 characters including spaces"
+msgstr ""
+
+#: customizer.php:851
+msgid "Restaurant description paragraph - max. 720 characters including spaces"
+msgstr ""
+
+#: customizer.php:876 customizer.php:1316
+msgid "Text color"
+msgstr ""
+
+#: customizer.php:900
+msgid "Gallery Images"
+msgstr ""
+
+#: customizer.php:901
+msgid "Gallery Section Images Upload"
+msgstr ""
+
+#: customizer.php:923
+msgid "Please select an image"
+msgstr ""
+
+#: customizer.php:947
+msgid "Menu book description"
+msgstr ""
+
+#: customizer.php:948
+msgid "Menu book description section theme settings"
+msgstr ""
+
+#: customizer.php:970
+msgid "Title - max. 40 characters including spaces"
+msgstr ""
+
+#: customizer.php:994 customizer.php:1153
+msgid "Title color"
+msgstr ""
+
+#: customizer.php:1017
+msgid "Message - max. 90 characters including spaces"
+msgstr ""
+
+#: customizer.php:1041
+msgid "Message color"
+msgstr ""
+
+#: customizer.php:1063 customizer.php:1198
+msgid "Please select a background image"
+msgstr ""
+
+#: customizer.php:1084
+msgid "Menu book"
+msgstr ""
+
+#: customizer.php:1085
+msgid "Menu book section theme settings"
+msgstr ""
+
+#: customizer.php:1106
+msgid "Menu book title - max. 20 characters including spaces"
+msgstr ""
+
+#: customizer.php:1129
+msgid "Menu book subtitle - max. 40 characters including spaces"
+msgstr ""
+
+#: customizer.php:1176
+msgid "Menu book text color"
+msgstr ""
+
+#: customizer.php:1223
+msgid "Menu book filter color"
+msgstr ""
+
+#: customizer.php:1247
+msgid "Blog section"
+msgstr ""
+
+#: customizer.php:1248
+msgid "Blog section theme settings"
+msgstr ""
+
+#: customizer.php:1269
+msgid "Title text - max. 20 characters including spaces"
+msgstr ""
+
+#: customizer.php:1292
+msgid "Under title text - max. 40 characters including spaces"
+msgstr ""
+
+#: customizer.php:1336
+msgid "Reservations section"
+msgstr ""
+
+#: customizer.php:1337
+msgid "Reservations section theme settings"
+msgstr ""
+
+#: customizer.php:1358
+msgid "Reservations title - max. 30 characters including spaces"
+msgstr ""
+
+#: customizer.php:1381
+msgid "Reservations under title text - max. 50 characters including spaces"
+msgstr ""
+
+#: customizer.php:1405
+msgid "Title, under title - color"
+msgstr ""
+
+#: customizer.php:1427
+msgid "Subtitle text - max. 30 characters including spaces"
+msgstr ""
+
+#: customizer.php:1450
+msgid ""
+"Reservations details first paragraph - max. 150 characters including spaces"
+msgstr ""
+
+#: customizer.php:1474
+msgid ""
+"Reservations details second paragraph - max. 65 characters including spaces"
+msgstr ""
+
+#: customizer.php:1499
+msgid "Subtitle and details color"
+msgstr ""
+
+#: customizer.php:1520
+msgid "Map section"
+msgstr ""
+
+#: customizer.php:1521
+msgid "Map section theme settings"
+msgstr ""
+
+#: customizer.php:1543
+msgid "Restaurant description - max. 40 characters including spaces"
+msgstr ""
+
+#: customizer.php:1566
+msgid "Restaurant location - max. 30 characters including spaces"
+msgstr ""
+
+#: customizer.php:1590
+msgid "Map title and description color"
+msgstr ""
+
+#: customizer.php:1600
+#, php-format
+msgid "Style %d"
+msgstr ""
+
+#: customizer.php:1630
+msgid "Footer"
+msgstr ""
+
+#: customizer.php:1631
+msgid "Footer settings"
+msgstr ""
+
+#: customizer.php:1652
+msgid "Footer title - max. 50 characters including spaces"
+msgstr ""
+
+#: customizer.php:1675
+msgid "Footer contact title - left"
+msgstr ""
+
+#: customizer.php:1698
+msgid "Footer social icons title"
+msgstr ""
+
+#: customizer.php:1721
+msgid "Footer contact form title"
+msgstr ""
+
+#: customizer.php:1744
+msgid "Footer right paragraph"
+msgstr ""
+
+#: customizer.php:1765
+msgid "Front Page Color Scheme"
+msgstr ""
+
+#: customizer.php:1766 customizer.php:1841
+msgid "Modify general colors"
+msgstr ""
+
+#: customizer.php:1788 customizer.php:1863
+msgid "General color selection"
+msgstr ""
+
+#: customizer.php:1808
+msgid "Dish List Header"
+msgstr ""
+
+#: customizer.php:1809
+msgid "Dish List Header Settings"
+msgstr ""
+
+#: customizer.php:1831 customizer.php:1958 customizer.php:2033
+msgid "Please select header image"
+msgstr ""
+
+#: customizer.php:1840
+msgid "Color Scheme"
+msgstr ""
+
+#: customizer.php:1886
+msgid "Widgets color selection"
+msgstr ""
+
+#: customizer.php:1911
+msgid "Hover filter color"
+msgstr ""
+
+#: customizer.php:1936
+msgid "All Categories Header"
+msgstr ""
+
+#: customizer.php:1937
+msgid "All Categories Header Settings"
+msgstr ""
+
+#: customizer.php:1967
+msgid "All posts header"
+msgstr ""
+
+#: customizer.php:1968
+msgid "All posts header settings"
+msgstr ""
+
+#: customizer.php:1988
+msgid "Blog Header Title - 50 characters including spaces"
+msgstr ""
+
+#: customizer.php:2011
+msgid "Header text color"
+msgstr ""
+
+#: footer.php:83
+msgid "Navigate in Google Maps"
+msgstr ""
+
+#: footer.php:108 parts/blog-post.php:64 parts/blog-social-links.php:19
+#: parts/content-post.php:84 parts/mobile-menu.php:85
+msgid "facebook"
+msgstr ""
+
+#: footer.php:114 parts/blog-post.php:70 parts/blog-social-links.php:23
+#: parts/content-post.php:90 parts/mobile-menu.php:92
+msgid "twitter"
+msgstr ""
+
+#: footer.php:120 parts/blog-social-links.php:31 parts/mobile-menu.php:99
+msgid "foursquare"
+msgstr ""
+
+#: footer.php:126 parts/blog-social-links.php:27 parts/mobile-menu.php:106
+msgid "instagram"
+msgstr ""
+
+#: footer.php:132 parts/blog-post.php:76 parts/blog-social-links.php:35
+#: parts/content-post.php:96 parts/mobile-menu.php:113
+msgid "pinterest"
+msgstr ""
+
+#: footer.php:138 parts/blog-social-links.php:39 parts/mobile-menu.php:120
+msgid "tripadvisor"
+msgstr ""
+
+#: footer.php:162
+msgid "Email Address"
+msgstr ""
+
+#: footer.php:167
+msgid "Subject"
+msgstr ""
+
+#: footer.php:171
+msgid "Message"
+msgstr ""
+
+#: footer.php:174
+msgid "Send message"
+msgstr ""
+
+#: footer.php:204
+msgid "All rights reserved - "
+msgstr ""
+
+#: functions.php:100
+msgid "TheSteam Plugin"
+msgstr ""
+
+#: functions.php:110
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: functions.php:174 functions.php:187 functions.php:3950 functions.php:3954
+#: parts/frontpage-section5.php:21
+msgid "Category List"
+msgstr ""
+
+#: functions.php:188
+msgid "Preview Category List"
+msgstr ""
+
+#: functions.php:204 functions.php:217
+msgid "TheSteam Front Page"
+msgstr ""
+
+#: functions.php:309
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:323
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:344
+msgid "read more"
+msgstr ""
+
+#: functions.php:543
+msgid "Front Page Menu - Only for TheSteam Front Page (max 6 items)"
+msgstr ""
+
+#: functions.php:544
+msgid "Blog Menu - Only for Blog Entries (max 7 items)"
+msgstr ""
+
+#: functions.php:557
+msgid "The Steam Blog Entries Sidebar"
+msgstr ""
+
+#: functions.php:564
+msgid "The main blog sidebar appears on the right on the list of blog entries"
+msgstr ""
+
+#: functions.php:571
+msgid "The Steam Dishes Sidebar"
+msgstr ""
+
+#: functions.php:578
+msgid "The dish sidebar appears on the right on the list of dishes"
+msgstr ""
+
+#: functions.php:712 parts/frontpage-reservations.php:106
+msgid "BOOK NOW"
+msgstr ""
+
+#: functions.php:713
+msgid "Sending..."
+msgstr ""
+
+#: functions.php:714 functions.php:2532 parts/frontpage-reservations.php:84
+msgid "E-Mail"
+msgstr ""
+
+#: functions.php:783
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: functions.php:933
+msgctxt "PlayFair font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:935
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:937
+msgctxt "PlayFairSC font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:939
+msgctxt "Josefin Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:941
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1336
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1342
+msgid "Next page"
+msgstr ""
+
+#: functions.php:1343
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:1522
+msgid "Uncategorized"
+msgstr ""
+
+#: functions.php:1751
+msgid ""
+"To enjoy functionalities like reservations management, menus and dishes "
+"please install The Steam plugin"
+msgstr ""
+
+#: functions.php:1767
+msgid ""
+"You are using a PHP version older than 5.3, launched in 2009. Please update "
+"to a newer version, otherwhise the theme may not work properly."
+msgstr ""
+
+#: functions.php:1804
+msgid "Importing..."
+msgstr ""
+
+#: functions.php:1805
+msgid "Please wait..."
+msgstr ""
+
+#: functions.php:1806 functions.php:3352
+msgid "Done!"
+msgstr ""
+
+#: functions.php:1807
+msgid "OK"
+msgstr ""
+
+#: functions.php:1808
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:1809
+msgid "Exporting"
+msgstr ""
+
+#: functions.php:1810 functions.php:2277
+msgid "Reset"
+msgstr ""
+
+#: functions.php:1811
+msgid "Server error occurred. Please try again"
+msgstr ""
+
+#: functions.php:1812 functions.php:1816
+msgid "Try again"
+msgstr ""
+
+#: functions.php:1813
+msgid ""
+"- This is caused by the small PHP execution time of your hosting provider. "
+"Please increase PHP execution time or try again."
+msgstr ""
+
+#: functions.php:1814
+msgid "Importing of demo data is finished!"
+msgstr ""
+
+#: functions.php:1843
+msgid "Settings"
+msgstr ""
+
+#: functions.php:1844
+msgid "Theme Settings"
+msgstr ""
+
+#: functions.php:1884
+msgid "Theme customization"
+msgstr ""
+
+#: functions.php:1887
+msgid ""
+"Notice: Your PHP Installation is missing the curl plugin. Please install it "
+"to be able to use Instagram integration!"
+msgstr ""
+
+#: functions.php:1892
+msgid ""
+"Notice: Your PHP Installation is missing the SimpleXML plugin. Please "
+"install it if you want to be able to import demo data."
+msgstr ""
+
+#: functions.php:1911 functions.php:3224 functions.php:3305
+msgid "Save Changes"
+msgstr ""
+
+#: functions.php:1916
+msgid "General"
+msgstr ""
+
+#: functions.php:1917
+msgid "Main Sections"
+msgstr ""
+
+#: functions.php:1918
+msgid "Menu Book"
+msgstr ""
+
+#: functions.php:1919
+msgid "Social & Contact"
+msgstr ""
+
+#: functions.php:1920
+msgid "Reservations"
+msgstr ""
+
+#: functions.php:1921
+msgid "Blog Slider"
+msgstr ""
+
+#: functions.php:1922
+msgid "Footer options"
+msgstr ""
+
+#: functions.php:1923
+msgid "Google Analytics"
+msgstr ""
+
+#: functions.php:1929
+msgid "General Theme Settings"
+msgstr ""
+
+#: functions.php:1936
+msgid "Frontpage Desktop Navbar Position:"
+msgstr ""
+
+#: functions.php:1938
+msgid ""
+"Choose whether the frontpage navbar should be positioned on top of the page "
+"or below the header."
+msgstr ""
+
+#: functions.php:1946
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:1951
+msgid "Top"
+msgstr ""
+
+#: functions.php:1960
+msgid "Frontpage Header:"
+msgstr ""
+
+#: functions.php:1962
+msgid ""
+"Choose between an Image, HTML5 Video or Youtube Video for the FrontPage "
+"Header.\n"
+"\t\t\t\t\t\t\t\t\t         If HTML5 video selected, please copy and rename "
+"the MP4 file in thesteam/inc/header/header.mp4. OGV and webM extensions work "
+"as well.\n"
+"\t\t\t\t\t\t\t\t\t         If Youtube video is selected, please copy the "
+"embed link obtained from Yotube below, eg. https://www.youtube.com/embed/"
+"abcdef"
+msgstr ""
+
+#: functions.php:1972
+msgid "HTML5 Video"
+msgstr ""
+
+#: functions.php:1977
+msgid "Youtube Video"
+msgstr ""
+
+#: functions.php:1982 functions.php:3759 functions.php:3795
+msgid "Image"
+msgstr ""
+
+#: functions.php:1991
+msgid "Youtube Video Embedd URL"
+msgstr ""
+
+#: functions.php:1993
+msgid "Embedded video url, eg. https://www.youtube.com/embed/XXXXXXX"
+msgstr ""
+
+#: functions.php:1997
+msgid "example"
+msgstr ""
+
+#: functions.php:2004
+msgid "Currency:"
+msgstr ""
+
+#: functions.php:2006
+msgid ""
+"Currency to display along with the prices for your restaurant`s dishes. "
+"Relies on the plugin being activated."
+msgstr ""
+
+#: functions.php:2016
+msgid "Currency after digits:"
+msgstr ""
+
+#: functions.php:2018
+msgid "Displays currency after price digits, for example: 15 Euro"
+msgstr ""
+
+#: functions.php:2040
+msgid "Reservations date format USA:"
+msgstr ""
+
+#: functions.php:2042
+msgid ""
+"If yes, then date format on the FrontPage will be mm/dd/yy. If not, date "
+"format will be dd/mm/yy."
+msgstr ""
+
+#: functions.php:2064
+msgid "Enable parallax effect:"
+msgstr ""
+
+#: functions.php:2066
+msgid "Enables parallax effect on front page for desktop devices."
+msgstr ""
+
+#: functions.php:2089
+msgid "Disable limiting of reservations & contact - prevents spam:"
+msgstr ""
+
+#: functions.php:2091
+msgid ""
+"If yes, then usage of contact form and reservations will no longer be "
+"limited to one per 30 minutes."
+msgstr ""
+
+#: functions.php:2113
+msgid "Use e-mail headers:"
+msgstr ""
+
+#: functions.php:2115
+msgid ""
+"If your hosting provider doesn`t support e-mail headers, turn them off and "
+"you will receive e-mails."
+msgstr ""
+
+#: functions.php:2137
+msgid "Enable haptic feedback:"
+msgstr ""
+
+#: functions.php:2139
+msgid ""
+"Enables mobile vibrations on certain buttons and links throughout the "
+"website."
+msgstr ""
+
+#: functions.php:2159
+msgid "Hide FrontPage Map Location Text:"
+msgstr ""
+
+#: functions.php:2161
+msgid "This option hides the box on top of the FrontPage map."
+msgstr ""
+
+#: functions.php:2181
+msgid "Enable map marker bounce:"
+msgstr ""
+
+#: functions.php:2183
+msgid "This option makes the map marker bounce - animation."
+msgstr ""
+
+#: functions.php:2203
+msgid "Hide Next/Prev Posts in Blog:"
+msgstr ""
+
+#: functions.php:2205
+msgid ""
+"This option hides Previous/Suggested/Next navigation when preview-ing a Post/"
+"Page."
+msgstr ""
+
+#: functions.php:2225
+msgid "Hide \"Comments are closed\":"
+msgstr ""
+
+#: functions.php:2227
+msgid "Hides the \"Comments are closed\" message in the blog when set."
+msgstr ""
+
+#: functions.php:2248
+msgid "Hide Diamond Symbols:"
+msgstr ""
+
+#: functions.php:2250
+msgid "Hides Diamonds Symbols on Front Page"
+msgstr ""
+
+#: functions.php:2271
+msgid "Reset theme settings:"
+msgstr ""
+
+#: functions.php:2273
+msgid "Resets theme settings to default."
+msgstr ""
+
+#: functions.php:2286
+msgid "Import Demo Posts:"
+msgstr ""
+
+#: functions.php:2288
+msgid "Imports demo data: posts/ dishes/ images."
+msgstr ""
+
+#: functions.php:2293
+msgid "Import"
+msgstr ""
+
+#: functions.php:2293
+msgid ""
+"When The Steam plugin is active, demo posts, categories and dishes can be "
+"imported with one click"
+msgstr ""
+
+#: functions.php:2295
+msgid "Please activate The Steam plugin to import demo data"
+msgstr ""
+
+#: functions.php:2302
+msgid "SimpleXML PHP Module is needed if you want to import demo data"
+msgstr ""
+
+#: functions.php:2313
+msgid "Delete all theme settings?"
+msgstr ""
+
+#: functions.php:2314
+msgid "This action cannot be undone!"
+msgstr ""
+
+#: functions.php:2316
+msgid "Import demo data?"
+msgstr ""
+
+#: functions.php:2317
+msgid ""
+"Available in english only, usually takes up to five minutes depending on "
+"your server's connection. If first attempt failed, please increase php "
+"max_execution_time or try again!"
+msgstr ""
+
+#: functions.php:2325
+msgid "Social & Contact Details"
+msgstr ""
+
+#: functions.php:2332
+msgid "Phone Number:"
+msgstr ""
+
+#: functions.php:2334
+msgid ""
+"Phone number used to contact your restaurant and for reservations. It may be "
+"a good idea to also provide country code"
+msgstr ""
+
+#: functions.php:2344
+msgid "Phone Num. in mobile menu:"
+msgstr ""
+
+#: functions.php:2346
+msgid ""
+"Shows the phone number in the mobile menu and is callable from mobile devices"
+msgstr ""
+
+#: functions.php:2367
+msgid "Address (Street):"
+msgstr ""
+
+#: functions.php:2369
+msgid "Address of your restaurant"
+msgstr ""
+
+#: functions.php:2378
+msgid "E-Mail for Contact Us (Footer):"
+msgstr ""
+
+#: functions.php:2380
+msgid ""
+"E-Mail Address used to receive messages sent via Contact Us Box (Footer)"
+msgstr ""
+
+#: functions.php:2389
+msgid "E-Mail for Reservations:"
+msgstr ""
+
+#: functions.php:2391
+msgid ""
+"E-Mail Address used to receive reservations emails. Works when E-Mail is "
+"setup correctly in WordPress and of course when not using OpenTable."
+msgstr ""
+
+#: functions.php:2400
+msgid "City:"
+msgstr ""
+
+#: functions.php:2402
+msgid "City followed by country (optional)"
+msgstr ""
+
+#: functions.php:2412
+msgid "Facebook URL:"
+msgstr ""
+
+#: functions.php:2414
+msgid "Link to your Facebook page"
+msgstr ""
+
+#: functions.php:2424
+msgid "Twitter URL:"
+msgstr ""
+
+#: functions.php:2426
+msgid "Link to your Twitter account"
+msgstr ""
+
+#: functions.php:2437
+msgid "Foursquare URL:"
+msgstr ""
+
+#: functions.php:2439
+msgid "Link to your your Foursquare account"
+msgstr ""
+
+#: functions.php:2449
+msgid "Instagram URL:"
+msgstr ""
+
+#: functions.php:2451
+msgid "Link to your your Instagram account"
+msgstr ""
+
+#: functions.php:2460
+msgid "Pinterest URL:"
+msgstr ""
+
+#: functions.php:2462
+msgid "Link to your your Pinterest account"
+msgstr ""
+
+#: functions.php:2472
+msgid "Trip Advisor URL:"
+msgstr ""
+
+#: functions.php:2474
+msgid "Link to your your Trip Advisor account"
+msgstr ""
+
+#: functions.php:2492
+msgid "Reservations options"
+msgstr ""
+
+#: functions.php:2499
+msgid "Reservation system:"
+msgstr ""
+
+#: functions.php:2501
+msgid "Selected between TheSteam integrated reservations system and Open Table"
+msgstr ""
+
+#: functions.php:2509
+msgid "The Steam"
+msgstr ""
+
+#: functions.php:2514
+msgid "Open Table"
+msgstr ""
+
+#: functions.php:2522
+msgid "Secondary field:"
+msgstr ""
+
+#: functions.php:2524
+msgid "Apart from phone number, choose if guests can provide name or email"
+msgstr ""
+
+#: functions.php:2537 functions.php:3699 parts/frontpage-reservations.php:86
+msgid "Name"
+msgstr ""
+
+#: functions.php:2545
+msgid "OpenTable Restaurant ID:"
+msgstr ""
+
+#: functions.php:2547
+msgid "Restaurant ID you received when you registered with Open Table."
+msgstr ""
+
+#: functions.php:2551
+msgid "000000"
+msgstr ""
+
+#: functions.php:2558
+msgid "E-Mail Address required for reservation:"
+msgstr ""
+
+#: functions.php:2560
+msgid ""
+"If enabled, e-mail address will be required to submit a reservation request. "
+"If name is selected for secondary field, this will have no effect."
+msgstr ""
+
+#: functions.php:2582
+msgid "Reservation confirmation notification:"
+msgstr ""
+
+#: functions.php:2584
+msgid "Send back email to confirm reservation was received"
+msgstr ""
+
+#: functions.php:2605
+msgid "Notify admin for reservation via email:"
+msgstr ""
+
+#: functions.php:2607
+msgid "Admin receives email for every new reservation"
+msgstr ""
+
+#: functions.php:2628
+msgid "E-Mail Title:"
+msgstr ""
+
+#: functions.php:2630
+msgid "Title of the e-mail to be sent to client when receiving a reservation"
+msgstr ""
+
+#: functions.php:2634
+msgid "Thank you for your reservation!"
+msgstr ""
+
+#: functions.php:2641
+msgid "E-Mail Body:"
+msgstr ""
+
+#: functions.php:2643
+msgid "Body of the e-mail to send when receiving a reservation"
+msgstr ""
+
+#: functions.php:2659
+msgid "Reservation confirmed email:"
+msgstr ""
+
+#: functions.php:2661
+msgid "Send back email to confirm reservation was accepted"
+msgstr ""
+
+#: functions.php:2682
+msgid "Confirmation E-Mail Title:"
+msgstr ""
+
+#: functions.php:2684
+msgid "Title of the e-mail to send when confirming an accepted reservation."
+msgstr ""
+
+#: functions.php:2688
+msgid "Reservation confirmed!"
+msgstr ""
+
+#: functions.php:2695
+msgid "Confirmation E-Mail Body:"
+msgstr ""
+
+#: functions.php:2697
+msgid "Body of the e-mail to send when confirming an accepted reservation."
+msgstr ""
+
+#: functions.php:2712
+msgid "Front Page Blog Slider"
+msgstr ""
+
+#: functions.php:2719
+msgid "Max Number of Items:"
+msgstr ""
+
+#: functions.php:2721
+msgid ""
+"Maximum number of blog featured images to display in the blog carousel on "
+"one page. Actual number depends on client screen size."
+msgstr ""
+
+#: functions.php:2756
+msgid "Total Number of Items:"
+msgstr ""
+
+#: functions.php:2758
+msgid ""
+"Total number of blog featured images to display in the blog carousel on one "
+"page. A number too large may impact page loading times."
+msgstr ""
+
+#: functions.php:2793
+msgid "Auto Play:"
+msgstr ""
+
+#: functions.php:2795
+msgid "Allow for the blog slider to play trough images automatically"
+msgstr ""
+
+#: functions.php:2802
+msgid "On"
+msgstr ""
+
+#: functions.php:2807
+msgid "Off"
+msgstr ""
+
+#: functions.php:2815
+msgid "Slide Show Delay (seconds):"
+msgstr ""
+
+#: functions.php:2817
+msgid ""
+"Number of seconds to wait before switching to the next image in the slider"
+msgstr ""
+
+#: functions.php:2837
+msgid "Main Front Page Sections"
+msgstr ""
+
+#: functions.php:2844
+msgid "Enable about section:"
+msgstr ""
+
+#: functions.php:2846
+msgid "Display the About us section on the front page, right below the header"
+msgstr ""
+
+#: functions.php:2868
+msgid "Enable dish types:"
+msgstr ""
+
+#: functions.php:2870
+msgid "Display dish type icons and description on front page, above menu book"
+msgstr ""
+
+#: functions.php:2892
+msgid "Enable menu book:"
+msgstr ""
+
+#: functions.php:2894
+msgid "Display menu book on front page"
+msgstr ""
+
+#: functions.php:2915
+msgid "Enable blog slider:"
+msgstr ""
+
+#: functions.php:2917
+msgid "Show the blog slider on the front page"
+msgstr ""
+
+#: functions.php:2938
+msgid "Enable reservations:"
+msgstr ""
+
+#: functions.php:2940
+msgid ""
+"Accept reservations for your restaurant on this website. Depends on plugin "
+"being active!"
+msgstr ""
+
+#: functions.php:2961
+msgid "Enable Front Page Gallery:"
+msgstr ""
+
+#: functions.php:2963
+msgid ""
+"Show a gallery of images on frontpage. You can select the images to be shown "
+"in the customizer"
+msgstr ""
+
+#: functions.php:2985
+msgid "Disable FrontPage Map:"
+msgstr ""
+
+#: functions.php:2987
+msgid "This hides the map from the Front Page"
+msgstr ""
+
+#: functions.php:3011
+msgid "Footer options are also available in the Live Customizer"
+msgstr ""
+
+#: functions.php:3018
+msgid "Restaurant Cuisine:"
+msgstr ""
+
+#: functions.php:3020
+msgid ""
+"Restaurant cuisine, i.e: Fusion Cuisine. Will be displayed in the footer, if "
+"set."
+msgstr ""
+
+#: functions.php:3031
+msgid "Opening hours:"
+msgstr ""
+
+#: functions.php:3033
+msgid "Restaurant opening hours i.e: Mo-Sun 9am - 12pm"
+msgstr ""
+
+#: functions.php:3043
+msgid "Enable contact form (plugin dependent):"
+msgstr ""
+
+#: functions.php:3045
+msgid ""
+"If enabled it shows the contact form in footer, otherwise it will show a "
+"paragraph of customizable text. Contact form relies on the plugin being "
+"activated."
+msgstr ""
+
+#: functions.php:3070
+msgid "Designated Google Analytics Field"
+msgstr ""
+
+#: functions.php:3077
+msgid "Google Analytics Tracking Code:"
+msgstr ""
+
+#: functions.php:3079
+msgid ""
+"Paste here the code from Google Analytics to see where your visitors come "
+"from"
+msgstr ""
+
+#: functions.php:3094
+msgid "Front Page Menu Book Options"
+msgstr ""
+
+#: functions.php:3101
+msgid "Enable dish pages:"
+msgstr ""
+
+#: functions.php:3103
+msgid ""
+"This option enables dedicated pages for dishes along with a detailed menu of "
+"dishes. Relies on the plugin being activated."
+msgstr ""
+
+#: functions.php:3123
+msgid "Number of dish types on Front Page:"
+msgstr ""
+
+#: functions.php:3125
+msgid ""
+"Always show four main general categories on frontpage, or show as many as "
+"look fine according to screen width. If unlimited, then it will be possible "
+"to swipe them."
+msgstr ""
+
+#: functions.php:3133
+msgid "Four"
+msgstr ""
+
+#: functions.php:3138
+msgid "Unlimited"
+msgstr ""
+
+#: functions.php:3146
+msgid "Menu book dish creation order:"
+msgstr ""
+
+#: functions.php:3148
+msgid "Display menu book items by creation date Descending or Ascending."
+msgstr ""
+
+#: functions.php:3155
+msgid "Ascending"
+msgstr ""
+
+#: functions.php:3160
+msgid "Descending"
+msgstr ""
+
+#: functions.php:3168
+msgid "Enable menu book hover preview:"
+msgstr ""
+
+#: functions.php:3170
+msgid ""
+"Animate menu book item on hover by displaying the dish image in the "
+"background"
+msgstr ""
+
+#: functions.php:3191
+msgid "Disable menu book dark filter:"
+msgstr ""
+
+#: functions.php:3193
+msgid "Hide the default dark filter behind the menu book text on front page"
+msgstr ""
+
+#: functions.php:3230
+msgid "Latitude:"
+msgstr ""
+
+#: functions.php:3235
+msgid ""
+"Latitude of your restaurant location. Gets updated automatically when you "
+"click on the map below"
+msgstr ""
+
+#: functions.php:3239
+msgid "Longitude:"
+msgstr ""
+
+#: functions.php:3244
+msgid ""
+"Longitude of your restaurant location. Gets updated automatically when you "
+"click on the map below"
+msgstr ""
+
+#: functions.php:3254
+msgid ""
+"It easy and takes less than a minute to get your FREE Google Maps API Key."
+msgstr ""
+
+#: functions.php:3254
+msgid "Obtain API Key!"
+msgstr ""
+
+#: functions.php:3265
+msgid "Google Maps API Key:"
+msgstr ""
+
+#: functions.php:3267
+msgid ""
+"Google Maps API Key needed for maps authentication. Map will not work "
+"without a key!"
+msgstr ""
+
+#: functions.php:3277
+msgid ""
+"To zoom in/out of the map use the scroll wheel on the mouse and click save."
+msgstr ""
+
+#: functions.php:3278
+msgid "Click map to add/remove markers!"
+msgstr ""
+
+#: functions.php:3279
+msgid "First added marker will center the map on Front Page!"
+msgstr ""
+
+#: functions.php:3299
+msgid "Error"
+msgstr ""
+
+#: functions.php:3300
+msgid "Invalid map coordinates! Please check values and then try again!"
+msgstr ""
+
+#: functions.php:3324
+msgid "Insufficient permissions!"
+msgstr ""
+
+#: functions.php:3337 functions.php:3929
+msgid "The Steam Blog Demo"
+msgstr ""
+
+#: functions.php:3375 functions.php:3376 functions.php:3386
+msgid "Subtitle (Optional)"
+msgstr ""
+
+#: functions.php:3378 functions.php:3379
+msgid "Meta Description (SEO)"
+msgstr ""
+
+#: functions.php:3383
+msgid "Dish type"
+msgstr ""
+
+#: functions.php:3384
+msgid "Dish Price"
+msgstr ""
+
+#: functions.php:3385
+msgid "Dish Contents"
+msgstr ""
+
+#: functions.php:3387
+msgid "Dish Description (SEO)"
+msgstr ""
+
+#: functions.php:3700
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:3701
+msgid "Description"
+msgstr ""
+
+#: functions.php:3702
+msgid "Slug"
+msgstr ""
+
+#: functions.php:3703
+msgid "Count"
+msgstr ""
+
+#: functions.php:3767
+msgid "Select"
+msgstr ""
+
+#: functions.php:3770 functions.php:3813
+msgid "Please select or upload an image"
+msgstr ""
+
+#: functions.php:3778 functions.php:3818
+msgid "Custom Image"
+msgstr ""
+
+#: functions.php:3778 functions.php:3818
+msgid "Select Image"
+msgstr ""
+
+#: functions.php:3808
+msgid "Browse gallery"
+msgstr ""
+
+#: functions.php:3864
+msgid "The Steam FrontPage"
+msgstr ""
+
+#: functions.php:3869 parts/mobile-menu.php:31
+msgid "HOME"
+msgstr ""
+
+#: functions.php:3874
+msgid "ABOUT"
+msgstr ""
+
+#: functions.php:3889
+msgid "RESERVATIONS"
+msgstr ""
+
+#: functions.php:3894
+msgid "CONTACT"
+msgstr ""
+
+#: functions.php:4044
+msgid ""
+"We are sorry, we encountered error in ajax field - please contact "
+"administrator..."
+msgstr ""
+
+#: functions.php:4048
+msgid ""
+"We are sorry, we encountered error in ajax field: please contact "
+"administrator..."
+msgstr ""
+
+#: functions.php:4176
+msgid "Error in reservation processing. Please contact administrator"
+msgstr ""
+
+#: functions.php:4192
+msgid "you are not allowed to do changes in this area"
+msgstr ""
+
+#: functions.php:4198
+msgid "settings cleared"
+msgstr ""
+
+#: functions.php:4201
+msgid "failed to delete theme settings"
+msgstr ""
+
+#: index.php:69
+msgid "Search results: "
+msgstr ""
+
+#: index.php:83 taxonomy-dishtype.php:56
+msgid ""
+"Sorry, no posts matched your criteria. Please try other categories from "
+"above."
+msgstr ""
+
+#: page-preview-category-list.php:38
+msgid "Categories preview"
+msgstr ""
+
+#: page-preview-category-list.php:40
+msgid "Browse through all categories"
+msgstr ""
+
+#: parts/blog-list-menu.php:23 parts/single-menu.php:25
+msgid "Home"
+msgstr ""
+
+#: parts/blog-post.php:36 parts/blog-post.php:38 parts/content-post.php:40
+#: parts/content-post.php:42
+msgid "Posted in"
+msgstr ""
+
+#: parts/blog-post.php:36 parts/content-post.php:40
+msgid "category"
+msgstr ""
+
+#: parts/blog-post.php:39 parts/content-post.php:43
+msgid "by"
+msgstr ""
+
+#: parts/blog-post.php:48 parts/content-post.php:52
+msgid "Ingredients: "
+msgstr ""
+
+#: parts/blog-post.php:82 parts/content-post.php:102
+msgid "google-plus"
+msgstr ""
+
+#: parts/blog-random-items.php:45
+msgid "Suggested articles"
+msgstr ""
+
+#: parts/blog-related-items.php:28
+msgid "Previous"
+msgstr ""
+
+#: parts/blog-related-items.php:35
+msgid "Suggested"
+msgstr ""
+
+#: parts/blog-related-items.php:47
+msgid "Next"
+msgstr ""
+
+#: parts/content-post.php:27
+#, php-format
+msgid "%d COMMENT"
+msgid_plural "%d COMMENTS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: parts/content-post.php:66
+msgid "READ MORE"
+msgstr ""
+
+#: parts/content-post.php:66
+msgid "READ FULL ARTICLE"
+msgstr ""
+
+#: parts/content-post.php:74
+#, php-format
+msgid "%d VIEW"
+msgid_plural "%d VIEWS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: parts/frontpage-blog-carousel.php:75 parts/frontpage-blog-carousel.php:117
+msgid "Comments"
+msgstr ""
+
+#: parts/frontpage-jumbotron.php:34
+msgid "Your browser does not support HTML5 video"
+msgstr ""
+
+#: parts/frontpage-reservations.php:42
+msgid "Guests"
+msgstr ""
+
+#: parts/frontpage-reservations.php:64
+msgid "Date of your visit"
+msgstr ""
+
+#: parts/frontpage-reservations.php:71
+msgid "Time of your visit"
+msgstr ""
+
+#: parts/frontpage-reservations.php:78
+msgid "Phone Number"
+msgstr ""
+
+#: parts/frontpage-section4.php:110
+msgid "1"
+msgstr ""
+
+#: parts/frontpage-section4.php:111
+msgid "2"
+msgstr ""
+
+#: parts/mobile-menu.php:20
+msgid "Menu"
+msgstr ""
+
+#: parts/mobile-menu.php:76
+msgid "Call us:"
+msgstr ""
+
+#: searchform.php:19
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:21
+msgid "search ..."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:384
+#: tgmp/class-tgm-plugin-activation.php:825
+#: tgmp/class-tgm-plugin-activation.php:2531
+#: tgmp/class-tgm-plugin-activation.php:3578
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:385
+#: tgmp/class-tgm-plugin-activation.php:3157
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:386
+#: tgmp/class-tgm-plugin-activation.php:2950
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:932
+#: tgmp/class-tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:1119
+#: tgmp/class-tgm-plugin-activation.php:2946
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:1980
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2271
+msgid "Required"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2274
+msgid "Recommended"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2290
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2293
+msgid "External Source"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2296
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2313
+msgid "Not Installed"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2317
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2319
+msgid "Active"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2325
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2328
+msgid "Requires Update"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2331
+msgid "Update recommended"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2340
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2386
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:2390
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:2394
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:2398
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgmp/class-tgm-plugin-activation.php:2480
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2488
+msgid "Installed version:"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2496
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2508
+msgid "Available version:"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2531
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2545
+msgid "Plugin"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2546
+msgid "Source"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2547
+msgid "Type"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2551
+msgid "Version"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2552
+msgid "Status"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2601
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2606
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2612
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2682
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2715
+msgid "Install"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2721
+msgid "Update"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2724
+msgid "Activate"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2906
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:2932
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3156
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3496
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3505
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3507
+#: tgmp/class-tgm-plugin-activation.php:3515
+msgid "Show Details"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3507
+#: tgmp/class-tgm-plugin-activation.php:3515
+msgid "Hide Details"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3508
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3510
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3513
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3516
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgmp/class-tgm-plugin-activation.php:3518
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "TheSteam"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.webdotinc.net/thesteam"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The Steam restaurant WordPress theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Web Dot Inc"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.webdotinc.com"
+msgstr ""

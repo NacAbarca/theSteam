@@ -1,0 +1,2473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thesteam\n"
+"POT-Creation-Date: 2017-05-01 10:46+0300\n"
+"PO-Revision-Date: 2017-05-01 10:46+0300\n"
+"Last-Translator: \n"
+"Language-Team: WDI\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__;"
+"esc_attr_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: parts\n"
+"X-Poedit-SearchPath-1: classes\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: tgmp\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+
+#: 404.php:29
+msgid "Ooops!"
+msgstr "Ooops!"
+
+#: 404.php:31
+msgid "No results found..."
+msgstr "No se encontraron resultados..."
+
+#: 404.php:35
+msgid "Try something from below:"
+msgstr "Pruebe algo de abajo:"
+
+#: classes/suggested-items.php:117
+msgid "Untitled"
+msgstr "Sin título"
+
+#: comments.php:21
+msgid ""
+"This post is protected with a password. Please enter the password to view "
+"comments."
+msgstr ""
+"Esta entrada está protegida con una contraseña. Introduzca la contraseña "
+"para ver los comentarios."
+
+#: comments.php:27
+msgid "No Comment"
+msgstr "Sin comentarios"
+
+#: comments.php:27
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: comments.php:27
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: comments.php:27
+msgid " so far:"
+msgstr "hasta ahora:"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: customizer.php:23
+msgid "The"
+msgstr "The"
+
+#: customizer.php:27
+msgid "STEAM"
+msgstr "STEAM"
+
+#: customizer.php:29
+msgid "RESTAURANT"
+msgstr "RESTAURANTE"
+
+#: customizer.php:36
+msgid "A History Of Delightful Memories"
+msgstr "Una historia de recuerdos encantadores"
+
+#: customizer.php:37
+msgid ""
+"For many years we served delicious food to our customers and we hope to see "
+"you here and taste our great dishes. Our restaurant changed the way people "
+"see food for the last twenty six years and we hope you will discover our "
+"traditions and culinary choices already tested by the best reviewers in the "
+"world. Our mission is to provide the best dining experience for all our "
+"customers depending on their varied tastes. Eat smart and stay healthy with "
+"our food."
+msgstr ""
+"Durante muchos años servimos deliciosa comida a nuestros clientes y "
+"esperamos verlos aquí y degustar nuestros platos. Nuestro restaurante cambió "
+"la forma en que la gente ve la comida durante los últimos veintiséis años y "
+"esperamos que descubra nuestras tradiciones y opciones culinarias ya "
+"probadas por los mejores revisores del mundo. Nuestra misión es proporcionar "
+"la mejor experiencia gastronómica para todos nuestros clientes en función de "
+"sus gustos variados. Comer elegante y mantenerse saludable con nuestra "
+"comida."
+
+#: customizer.php:39
+msgid "Our Specialities"
+msgstr "Nuestras Especialidades"
+
+#: customizer.php:41
+msgid ""
+"From fresh seafood to delicate desserts, everything looks and tastes really "
+"exquisitely."
+msgstr ""
+"Desde mariscos frescos hasta delicados postres, todo se ve y sabe muy "
+"exquisitamente."
+
+#: customizer.php:44 functions.php:3354
+msgid "MENU"
+msgstr "MENÚ"
+
+#: customizer.php:45
+msgid "Take a journey into our specialties"
+msgstr "Viaje a nuestras especialidades"
+
+#: customizer.php:46 customizer.php:48
+msgid "SEND US A MESSAGE"
+msgstr "MANDANOS UN MENSAJE"
+
+#: customizer.php:47
+msgid "WE ARE SOCIAL"
+msgstr "SOMOS SOCIALES"
+
+#: customizer.php:49
+msgid "LET`S KEEP IN TOUCH"
+msgstr "MANTENTE EN CONTACTO"
+
+#: customizer.php:56 functions.php:3359
+msgid "BLOG"
+msgstr "BLOG"
+
+#: customizer.php:57
+msgid "Enjoy our finest posts!"
+msgstr "Nuestros mejores blogs!"
+
+#: customizer.php:59
+msgid "ONLINE RESERVATION"
+msgstr "RESERVA ONLINE"
+
+#: customizer.php:60
+msgid "We have made your favorite dish for dinner"
+msgstr "Hemos hecho su plato favorito para la cena"
+
+#: customizer.php:62
+msgid "Reserve by phone"
+msgstr "Reservar por teléfono"
+
+#: customizer.php:63
+msgid ""
+"We take reservations for lunch and dinner. To make a reservation, please "
+"select the date and time and fill in your contact information in the "
+"designated section or call us at (027) 8338 145 between 10 am - 6 pm."
+msgstr ""
+"Tomamos reservas para el almuerzo y la cena. Para hacer una reserva, "
+"seleccione la fecha y la hora y complete su información de contacto en la "
+"sección designada o llámenos al (027) 8338 145 entre las 10 am - 6 pm."
+
+#: customizer.php:64
+msgid "We do not book the bar area, we leave this for walk-in guests."
+msgstr "No reservamos la zona del bar, dejamos esto para los huéspedes."
+
+#: customizer.php:66
+msgid "THE FINEST RESTAURANT IN"
+msgstr "THE FINEST RESTAURANT IN"
+
+#: customizer.php:67
+msgid "New York City"
+msgstr "New York City"
+
+#: customizer.php:95
+msgid "Undefined field"
+msgstr "Campo no definido"
+
+#: customizer.php:99
+msgid "Undefined key"
+msgstr "Tecla no definida"
+
+#: customizer.php:133
+msgid "Text or logo"
+msgstr "Texto o logotipo"
+
+#: customizer.php:137
+msgid "Text"
+msgstr "Texto"
+
+#: customizer.php:138
+msgid "Logo"
+msgstr "Logo"
+
+#: customizer.php:159
+msgid "Please select the main logo image (max. recommended size 250 x 360 px)"
+msgstr ""
+"Seleccione la imagen del logo principal (tamaño máximo recomendado 250 x 360 "
+"px)"
+
+#: customizer.php:181
+msgid "First line of text"
+msgstr "Primera línea de texto"
+
+#: customizer.php:206
+msgid "First line of text color"
+msgstr "El color de la primera línea de texto"
+
+#: customizer.php:228
+msgid "Second line of text"
+msgstr "Segunda línea de texto"
+
+#: customizer.php:253
+msgid "Second line of text color"
+msgstr "El color de la segunda línea de texto"
+
+#: customizer.php:275
+msgid "Third line of text"
+msgstr "Tercera línea de texto"
+
+#: customizer.php:299
+msgid "Third line of text color"
+msgstr "El color de la tercera línea de texto"
+
+#: customizer.php:352
+msgid "Animations"
+msgstr "Animaciones"
+
+#: customizer.php:353
+msgid "Theme animations settings"
+msgstr "Configuración de animaciones temáticas"
+
+#: customizer.php:371 functions.php:1951 functions.php:1991 functions.php:2010
+#: functions.php:2030 functions.php:2084 functions.php:2103 functions.php:2123
+#: functions.php:2143 functions.php:2162 functions.php:2184 functions.php:2204
+#: functions.php:2224 functions.php:2244 functions.php:2264 functions.php:2284
+#: functions.php:2367 functions.php:2510 functions.php:2529 functions.php:2570
+msgid "Yes"
+msgstr "Si"
+
+#: customizer.php:372 functions.php:1956 functions.php:1996 functions.php:2015
+#: functions.php:2035 functions.php:2089 functions.php:2108 functions.php:2128
+#: functions.php:2148 functions.php:2167 functions.php:2189 functions.php:2209
+#: functions.php:2229 functions.php:2249 functions.php:2269 functions.php:2289
+#: functions.php:2372 functions.php:2515 functions.php:2534 functions.php:2575
+msgid "No"
+msgstr "No"
+
+#: customizer.php:384
+msgid "Select Header Logo Animation:"
+msgstr "Seleccione Logotipo de encabezado Animación:"
+
+#: customizer.php:385
+msgid "Available only for Logo Image"
+msgstr "Disponible sólo para Logo Image"
+
+#: customizer.php:399
+msgid "Select About Section Animation:"
+msgstr "Seleccione la animación para la sección \"Acerca de\":"
+
+#: customizer.php:400
+msgid "Available only for About Section"
+msgstr "Disponible sólo para la sección \"Acerca de\""
+
+#: customizer.php:428
+msgid "Select Reservations Section Animation:"
+msgstr "Seleccione la animación para la sección \"reservas\":"
+
+#: customizer.php:429
+msgid "Available only for Reservations Section"
+msgstr "Disponible sólo para la sección \"reservas\":"
+
+#: customizer.php:448
+msgid "Desktop navbar"
+msgstr "Barra de escritorio"
+
+#: customizer.php:449
+msgid "Frontpage Desktop Navbar settings"
+msgstr "Configuración de la Navbar de escritorio Frontpage"
+
+#: customizer.php:472
+msgid "Menu filter color"
+msgstr "Color de la barra de navegación"
+
+#: customizer.php:500
+msgid "Menu filter color when sticky"
+msgstr "Color de la Navbar cuando está pegado a la parte superior"
+
+#: customizer.php:528
+msgid "Navbar items colors - when sticky"
+msgstr ""
+"Los elementos de la Navbar se colorean cuando están pegados a la parte "
+"superior"
+
+#: customizer.php:556
+msgid "Navbar items colors - when not sticky"
+msgstr ""
+"Elementos de la Navbar color cuando no están pegados a la parte superior"
+
+#: customizer.php:584
+msgid "Navbar items colors when hovered"
+msgstr "Los elementos de Navbar flotan en color"
+
+#: customizer.php:612
+msgid ""
+"Navbar items underline colors when hovered (save & refresh to see changes)"
+msgstr ""
+"Los elementos de la barra de navegación subrayan el color al volar (guardar "
+"y actualizar para ver los cambios)"
+
+#: customizer.php:639
+msgid "Please select the nav-bar logo image (max size: 250 x 48 px)"
+msgstr ""
+"Por favor, seleccione la imagen del logotipo de la barra de navegación "
+"(tamaño máximo: 250 x 48 px)"
+
+#: customizer.php:659
+msgid "Restaurant description"
+msgstr "Descripción del restaurante"
+
+#: customizer.php:660
+msgid "Restaurant description section theme settings"
+msgstr "Ajustes para la descripción del restaurante"
+
+#: customizer.php:681
+msgid "Curtain Images"
+msgstr "Cortina Imágenes"
+
+#: customizer.php:685
+msgid "Manual selection"
+msgstr "Selección manual"
+
+#: customizer.php:686
+msgid "Instagram"
+msgstr "Instagram"
+
+#: customizer.php:701
+msgid "Inactive! Please install PHP Curl plugin!"
+msgstr "¡Inactivo! Por favor, instale PHP Curl plugin!"
+
+#: customizer.php:708
+#, php-format
+msgid "Instagram API KEY %s"
+msgstr "Instagram API KEY %s"
+
+#: customizer.php:731
+msgid "Please select curtain image 1"
+msgstr "Seleccione la imagen 1"
+
+#: customizer.php:755
+msgid "Please select curtain image 2"
+msgstr "Seleccione la imagen 2"
+
+#: customizer.php:779
+msgid "Please select curtain image 3"
+msgstr "Seleccione la imagen 3"
+
+#: customizer.php:803
+msgid "Please select curtain image 4"
+msgstr "Seleccione la imagen 4"
+
+#: customizer.php:827
+msgid "Restaurant description - title - max. 50 characters including spaces"
+msgstr ""
+"Descripción del restaurante - título - máx. 50 caracteres incluyendo espacios"
+
+#: customizer.php:851
+msgid "Restaurant description paragraph - max. 720 characters including spaces"
+msgstr ""
+"Descripción del restaurante - párrafo - máx. 720 caracteres incluyendo "
+"espacios"
+
+#: customizer.php:876 customizer.php:1265
+msgid "Text color"
+msgstr "Color del texto"
+
+#: customizer.php:896
+msgid "Menu book description"
+msgstr "Descripción del menú"
+
+#: customizer.php:897
+msgid "Menu book description section theme settings"
+msgstr "Ajustes para la descripción del menú"
+
+#: customizer.php:919
+msgid "Title - max. 40 characters including spaces"
+msgstr "Título - máx. 40 caracteres incluyendo espacios"
+
+#: customizer.php:943 customizer.php:1102
+msgid "Title color"
+msgstr "Color del título"
+
+#: customizer.php:966
+msgid "Message - max. 90 characters including spaces"
+msgstr "Mensaje - max. 90 caracteres incluiendo los espacios"
+
+#: customizer.php:990
+msgid "Message color"
+msgstr "Color del mensaje"
+
+#: customizer.php:1012 customizer.php:1147
+msgid "Please select a background image"
+msgstr "Seleccione una imagen de fondo"
+
+#: customizer.php:1033
+msgid "Menu book"
+msgstr "Menú"
+
+#: customizer.php:1034
+msgid "Menu book section theme settings"
+msgstr "Configuración de la sección de menú"
+
+#: customizer.php:1055
+msgid "Menu book title - max. 20 characters including spaces"
+msgstr "Menú - título - máx. 20 caracteres incluyendo espacios"
+
+#: customizer.php:1078
+msgid "Menu book subtitle - max. 40 characters including spaces"
+msgstr "Menú - subtítulo - máx. 40 caracteres incluyendo espacios"
+
+#: customizer.php:1125
+msgid "Menu book text color"
+msgstr "Color del texto del libro de menús"
+
+#: customizer.php:1172
+msgid "Menu book filter color"
+msgstr "Color del filtro del libro de menús"
+
+#: customizer.php:1196
+msgid "Blog section"
+msgstr "El  sección del blog"
+
+#: customizer.php:1197
+msgid "Blog section theme settings"
+msgstr "Configuración de la sección de blog"
+
+#: customizer.php:1218
+msgid "Title text - max. 20 characters including spaces"
+msgstr "Texto del título - máx. 20 caracteres incluyendo espacios"
+
+#: customizer.php:1241
+msgid "Under title text - max. 40 characters including spaces"
+msgstr "Texto del subtítulo - máx. 40 caracteres incluyendo espacios"
+
+#: customizer.php:1285
+msgid "Reservations section"
+msgstr "El sección de los reservas"
+
+#: customizer.php:1286
+msgid "Reservations section theme settings"
+msgstr "Configuración de la sección de reservas"
+
+#: customizer.php:1307
+msgid "Reservations title - max. 30 characters including spaces"
+msgstr "Reservas - título - máx. 30 caracteres incluyendo espacios"
+
+#: customizer.php:1330
+msgid "Reservations under title text - max. 50 characters including spaces"
+msgstr "Reservas - Texto de subtítulo - máx. 50 caracteres incluyendo espacios"
+
+#: customizer.php:1354
+msgid "Title, under title - color"
+msgstr "Título, subtítulo - color"
+
+#: customizer.php:1376
+msgid "Subtitle text - max. 30 characters including spaces"
+msgstr "Texto del subtítulo - máx. 30 caracteres incluyendo espacios"
+
+#: customizer.php:1399
+msgid ""
+"Reservations details first paragraph - max. 150 characters including spaces"
+msgstr ""
+"Detalles de la reserva - primer párrafo - máx. 150 caracteres incluyendo "
+"espacios"
+
+#: customizer.php:1423
+msgid ""
+"Reservations details second paragraph - max. 65 characters including spaces"
+msgstr ""
+"Detalles de la reserva - segundo párrafo - máx. 65 caracteres incluyendo "
+"espacios"
+
+#: customizer.php:1448
+msgid "Subtitle and details color"
+msgstr "Color de subtítulo y detalles"
+
+#: customizer.php:1469
+msgid "Map section"
+msgstr "Sección de mapa"
+
+#: customizer.php:1470
+msgid "Map section theme settings"
+msgstr "Configuración de la sección de mapa"
+
+#: customizer.php:1492
+msgid "Restaurant description - max. 40 characters including spaces"
+msgstr "Descripción del restaurante - máx. 40 caracteres incluyendo espacios"
+
+#: customizer.php:1515
+msgid "Restaurant location - max. 30 characters including spaces"
+msgstr "Ubicación del restaurante - máx. 30 caracteres incluyendo espacios"
+
+#: customizer.php:1539
+msgid "Map title and description color"
+msgstr "Título del mapa y color de la descripción"
+
+#: customizer.php:1549
+#, php-format
+msgid "Style %d"
+msgstr "Estilo %d"
+
+#: customizer.php:1579
+msgid "Footer"
+msgstr "Pie de página"
+
+#: customizer.php:1580
+msgid "Footer settings"
+msgstr "Configuración de pie de página"
+
+#: customizer.php:1601
+msgid "Footer title - max. 50 characters including spaces"
+msgstr "Título del pie de página - máx. 50 caracteres incluyendo espacios"
+
+#: customizer.php:1624
+msgid "Footer contact title - left"
+msgstr "Contacto título - izquierda"
+
+#: customizer.php:1647
+msgid "Footer social icons title"
+msgstr "Título de iconos sociales de pie de página"
+
+#: customizer.php:1670
+msgid "Footer contact form title"
+msgstr "Título para el formulario de contacto"
+
+#: customizer.php:1693
+msgid "Footer right paragraph"
+msgstr "Párrafo derecho del pie de página"
+
+#: customizer.php:1714
+msgid "Front Page Color Scheme"
+msgstr "Esquema de color de la página principal"
+
+#: customizer.php:1715 customizer.php:1790
+msgid "Modify general colors"
+msgstr "Modificar colores generales"
+
+#: customizer.php:1737 customizer.php:1812
+msgid "General color selection"
+msgstr "Selección general del color"
+
+#: customizer.php:1757
+msgid "Dish List Header"
+msgstr "Encabezamiento de la lista de platos"
+
+#: customizer.php:1758
+msgid "Dish List Header Settings"
+msgstr "La configuración del encabezamiento de la lista de platos"
+
+#: customizer.php:1780 customizer.php:1907 customizer.php:1982
+msgid "Please select header image"
+msgstr "Por favor seleccione la imagen del encabezamiento"
+
+#: customizer.php:1789
+msgid "Color Scheme"
+msgstr "Esquema de colores"
+
+#: customizer.php:1835
+msgid "Widgets color selection"
+msgstr "Selección de colores de los widgets"
+
+#: customizer.php:1860
+msgid "Hover filter color"
+msgstr "Colorea el color del filtro"
+
+#: customizer.php:1885
+msgid "All Categories Header"
+msgstr "Encabezamiento para todas las categorías"
+
+#: customizer.php:1886
+msgid "All Categories Header Settings"
+msgstr "La configuración del encabezamiento de todas las categorías"
+
+#: customizer.php:1916
+msgid "All posts header"
+msgstr "Encabezamiento por todas los mensajes"
+
+#: customizer.php:1917
+msgid "All posts header settings"
+msgstr "Configuración del encabezado"
+
+#: customizer.php:1937
+msgid "Blog Header Title - 50 characters including spaces"
+msgstr "Título del encabezado del blog - 50 caracteres incluyendo espacios"
+
+#: customizer.php:1960
+msgid "Header text color"
+msgstr "Color del texto del encabezado"
+
+#: footer.php:83
+msgid "Navigate in Google Maps"
+msgstr "Navegar en Google Maps"
+
+#: footer.php:108 parts/blog-post.php:64 parts/blog-social-links.php:19
+#: parts/content-post.php:84 parts/mobile-menu.php:85
+msgid "facebook"
+msgstr "facebook"
+
+#: footer.php:114 parts/blog-post.php:70 parts/blog-social-links.php:23
+#: parts/content-post.php:90 parts/mobile-menu.php:92
+msgid "twitter"
+msgstr "twitter"
+
+#: footer.php:120 parts/blog-social-links.php:31 parts/mobile-menu.php:99
+msgid "foursquare"
+msgstr "foursquare"
+
+#: footer.php:126 parts/blog-social-links.php:27 parts/mobile-menu.php:106
+msgid "instagram"
+msgstr "instagram"
+
+#: footer.php:132 parts/blog-post.php:76 parts/blog-social-links.php:35
+#: parts/content-post.php:96 parts/mobile-menu.php:113
+msgid "pinterest"
+msgstr "pinterest"
+
+#: footer.php:138 parts/blog-social-links.php:39 parts/mobile-menu.php:120
+msgid "tripadvisor"
+msgstr "tripadvisor"
+
+#: footer.php:162
+msgid "Email Address"
+msgstr "Correo electrónico"
+
+#: footer.php:167
+msgid "Subject"
+msgstr "Tema"
+
+#: footer.php:171
+msgid "Message"
+msgstr "Mensaje"
+
+#: footer.php:174
+msgid "Send message"
+msgstr "Enviar"
+
+#: footer.php:205
+msgid "All rights reserved - "
+msgstr "Todos los derechos reservados -"
+
+#: functions.php:100
+msgid "TheSteam Plugin"
+msgstr "TheSteam Plugin"
+
+#: functions.php:164 functions.php:177 functions.php:3425 functions.php:3429
+#: parts/frontpage-section5.php:21
+msgid "Category List"
+msgstr "Lista de categorías"
+
+#: functions.php:178
+msgid "Preview Category List"
+msgstr "Lista de categorías"
+
+#: functions.php:194 functions.php:207
+msgid "TheSteam Front Page"
+msgstr "TheSteam Front Page"
+
+#: functions.php:299
+msgid "Previous Page"
+msgstr "Pagina anterior"
+
+#: functions.php:313
+msgid "Next Page"
+msgstr "Siguiente página"
+
+#: functions.php:334
+msgid "read more"
+msgstr "Lee mas"
+
+#: functions.php:533
+msgid "Front Page Menu - Only for TheSteam Front Page (max 6 items)"
+msgstr ""
+"Menú de la página principal - Sólo para TheSteam Front Page (máximo 6 "
+"elementos)"
+
+#: functions.php:534
+msgid "Blog Menu - Only for Blog Entries (max 7 items)"
+msgstr "Menú Blog - Sólo para entradas de blog (máximo 7 elementos)"
+
+#: functions.php:547
+msgid "The Steam Blog Entries Sidebar"
+msgstr "La barra lateral de la lista del blog The Steam"
+
+#: functions.php:554
+msgid "The main blog sidebar appears on the right on the list of blog entries"
+msgstr ""
+"La barra lateral del blog principal aparece a la derecha en la lista de "
+"entradas de blog"
+
+#: functions.php:561
+msgid "The Steam Dishes Sidebar"
+msgstr "La barra lateral de los platos The Steam"
+
+#: functions.php:568
+msgid "The dish sidebar appears on the right on the list of dishes"
+msgstr "La barra lateral del plato aparece a la derecha en la lista de platos"
+
+#: functions.php:691 parts/frontpage-reservations.php:100
+msgid "BOOK NOW"
+msgstr "RESERVA"
+
+#: functions.php:692
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: functions.php:693 parts/frontpage-reservations.php:82
+msgid "E-Mail"
+msgstr "Correo electrónico"
+
+#: functions.php:756
+msgid "SEND MESSAGE"
+msgstr "ENVIAR"
+
+#: functions.php:905
+msgctxt "PlayFair font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:907
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:909
+msgctxt "PlayFairSC font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:911
+msgctxt "Josefin Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:913
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:1295
+msgid "Pages:"
+msgstr "Paginas:"
+
+#: functions.php:1301
+msgid "Next page"
+msgstr "Pagina siguente"
+
+#: functions.php:1302
+msgid "Previous page"
+msgstr "Pagina anterior"
+
+#: functions.php:1481
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#: functions.php:1710
+msgid ""
+"To enjoy functionalities like reservations management, menus and dishes "
+"please install The Steam plugin"
+msgstr ""
+"Para disfrutar los funcionalidades como gestión de reservas, menús y platos, "
+"instale el plugin The Steam"
+
+#: functions.php:1726
+msgid ""
+"You are using a PHP version older than 5.3, launched in 2009. Please update "
+"to a newer version, otherwhise the theme may not work properly."
+msgstr ""
+"Está utilizando una versión de PHP más antigua de 5.3, lanzada en 2009. "
+"Actualice a una versión más nueva, otherwhise el tema puede no funcionar "
+"correctamente."
+
+#: functions.php:1763
+msgid "Importing..."
+msgstr "Importador..."
+
+#: functions.php:1764
+msgid "Please wait..."
+msgstr "Por favor espera..."
+
+#: functions.php:1765 functions.php:2827
+msgid "Done!"
+msgstr "¡Hecho!"
+
+#: functions.php:1766
+msgid "OK"
+msgstr "OK"
+
+#: functions.php:1767
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: functions.php:1768
+msgid "Exporting"
+msgstr "Exportador"
+
+#: functions.php:1769 functions.php:2300
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: functions.php:1770
+msgid "Server error occurred. Please try again"
+msgstr "Se ha producido un error de servidor. Por favor, inténtelo de nuevo"
+
+#: functions.php:1771 functions.php:1775
+msgid "Try again"
+msgstr "Inténtalo de nuevo"
+
+#: functions.php:1772
+msgid ""
+"- This is caused by the small PHP execution time of your hosting provider. "
+"Please increase PHP execution time or try again."
+msgstr ""
+"- Esto es causado por el pequeño tiempo de ejecución de PHP de su proveedor "
+"de alojamiento. Aumente el tiempo de ejecución de PHP o vuelva a intentarlo."
+
+#: functions.php:1773
+msgid "Importing of demo data is finished!"
+msgstr "¡La importación de los datos de demostración está terminada!"
+
+#: functions.php:1802
+msgid "Settings"
+msgstr "Ajustes"
+
+#: functions.php:1803
+msgid "Theme Settings"
+msgstr "Ajustes de tema"
+
+#: functions.php:1843
+msgid "Theme customization"
+msgstr "Personalización de temas"
+
+#: functions.php:1846
+msgid ""
+"Notice: Your PHP Installation is missing the curl plugin. Please install it "
+"to be able to use Instagram integration!"
+msgstr ""
+"Aviso: Su instalación de PHP no tiene el plugin curl. ¡Instálelo para poder "
+"integrar Instagram!"
+
+#: functions.php:1851
+msgid ""
+"Notice: Your PHP Installation is missing the SimpleXML plugin. Please "
+"install it if you want to be able to import demo data."
+msgstr ""
+"Aviso: Su instalación de PHP no tiene el plugin SimpleXML. Instálelo si "
+"desea importar datos de demostración."
+
+#: functions.php:1870 functions.php:2717 functions.php:2780
+msgid "Save Changes"
+msgstr "Guarda los cambios"
+
+#: functions.php:1875
+msgid "General"
+msgstr "General"
+
+#: functions.php:1876
+msgid "Social & Contact"
+msgstr "Datos sociales y de contacto"
+
+#: functions.php:1877
+msgid "Reservations"
+msgstr "Reservaciónes"
+
+#: functions.php:1878 functions.php:2605
+msgid "Blog Carousel"
+msgstr "Blog Carrusel"
+
+#: functions.php:1884
+msgid "General settings"
+msgstr "Configuración general"
+
+#: functions.php:1888
+msgid "Currency:"
+msgstr "Moneda:"
+
+#: functions.php:1893
+msgid ""
+"Currency to display along with the prices for your restaurant's dishes. "
+"Relies on the plugin being activated."
+msgstr ""
+"Moneda para mostrar junto con los precios de los platos de su restaurante. "
+"Depende del plugin que se está activando."
+
+#: functions.php:1898
+msgid "Frontpage Desktop Navbar Position:"
+msgstr "Posición de la mesa de escritorio Frontpage:"
+
+#: functions.php:1903
+msgid ""
+"Choose whether the frontpage navbar should be positioned on top of the page "
+"or below the jumbotron"
+msgstr ""
+"Elija si la barra de navegación de la primera página debe colocarse en la "
+"parte superior de la página o debajo del encabezado"
+
+#: functions.php:1907
+msgid "Bottom"
+msgstr "Fondo"
+
+#: functions.php:1912
+msgid "Top"
+msgstr "Superior"
+
+#: functions.php:1920
+msgid "Frontpage Header:"
+msgstr "Encabezado Frontpage:"
+
+#: functions.php:1925
+msgid "Choose between an Image or HTML5 Video for the FrontPage Header"
+msgstr ""
+"Elija entre una imagen o un video HTML5 para el encabezado de FrontPage"
+
+#: functions.php:1929
+msgid "HTML5 Video"
+msgstr "HTML5 Video"
+
+#: functions.php:1934 functions.php:3234 functions.php:3270
+msgid "Image"
+msgstr "Imagen"
+
+#: functions.php:1942
+msgid "Currency after digits:"
+msgstr "Moneda después de dígitos:"
+
+#: functions.php:1947
+msgid "Displays currency after price digits, for example: 15 Euro"
+msgstr ""
+"Muestra los dígitos de la divisa después de los precios, por ejemplo: 15 "
+"euros"
+
+#: functions.php:1964
+msgid "Restaurant Cuisine:"
+msgstr "Restaurante Cocina:"
+
+#: functions.php:1969
+msgid ""
+"Restaurant cuisine, i.e: Fusion Cuisine. Will be displayed in the footer, if "
+"set."
+msgstr ""
+"Cocina de restaurante, es decir: Fusion Cuisine. Se mostrará en el pie de "
+"página, si se establece."
+
+#: functions.php:1974
+msgid "Opening hours:"
+msgstr "Horario de apertura:"
+
+#: functions.php:1979
+msgid "Restaurant opening hours i.e: Mo-Sun 9am - 12pm"
+msgstr "Horario de apertura del restaurante e.g: Lun-Dom 9h - 12h"
+
+#: functions.php:1983
+msgid "Enable about section:"
+msgstr "Habilitar la sección \"acerca de\":"
+
+#: functions.php:1987
+msgid "Display the About us section on the front page, right below the header"
+msgstr ""
+"Muestre la sección \"Acerca de nosotros\" en la primera página, justo debajo "
+"del encabezado"
+
+#: functions.php:2002
+msgid "Enable dish types:"
+msgstr "Habilitar tipos de platos:"
+
+#: functions.php:2006
+msgid "Display dish type icons and description on front page, above menu book"
+msgstr ""
+"Mostrar los iconos del tipo de plato y la descripción en la primera página, "
+"arriba del menú"
+
+#: functions.php:2022
+msgid "Enable menu book:"
+msgstr "Habilitar el libro de menús:"
+
+#: functions.php:2026
+msgid "Display menu book on front page"
+msgstr "Mostrar el libro del menú en la primera página"
+
+#: functions.php:2041
+msgid "Number of dish types on Front Page:"
+msgstr "Número de tipos de platos en la página principal:"
+
+#: functions.php:2045
+msgid ""
+"Always show four main general categories on frontpage, or show as many as "
+"look fine according to screen width. If unlimited, then it will be possible "
+"to swipe them."
+msgstr ""
+"Siempre muestre cuatro categorías generales principales en frontpage, o "
+"muestre tantos como se vean bien según el ancho de la pantalla. Si es "
+"ilimitado, entonces será posible deslizarlos."
+
+#: functions.php:2049
+msgid "Four"
+msgstr "Las cuatro"
+
+#: functions.php:2054
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: functions.php:2059
+msgid "Menu book dish creation order:"
+msgstr "Menú libro platos creación orden:"
+
+#: functions.php:2062
+msgid "Display menu book items by creation date Descending or Ascending."
+msgstr ""
+"Mostrar elementos del libro de menú por fecha de creación Descendente o "
+"Ascendente."
+
+#: functions.php:2065
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: functions.php:2070
+msgid "Descending"
+msgstr "Descendente"
+
+#: functions.php:2076
+msgid "Enable menu book hover preview:"
+msgstr "Habilitar la vista previa del hover del libro del menú:"
+
+#: functions.php:2080
+msgid "Animate menu book item on hover"
+msgstr "Animar el elemento de libro de menú en el icono"
+
+#: functions.php:2095
+msgid "Disable menu book dark filter:"
+msgstr "Desactivar filtro oscuro de menús:"
+
+#: functions.php:2099
+msgid "Hide the default dark filter behind the menu book text on front page"
+msgstr ""
+"Ocultar el filtro oscuro predeterminado detrás del texto de menú en la "
+"primera página"
+
+#: functions.php:2115
+msgid "Enable parallax effect:"
+msgstr "Habilitar efecto de paralaje:"
+
+#: functions.php:2119
+msgid "Enables parallax effect on front page for desktop devices"
+msgstr ""
+"Habilita el efecto de paralaje en la portada de los dispositivos de "
+"escritorio"
+
+#: functions.php:2135
+msgid "Enable blog carousel:"
+msgstr "Habilitar carrusel de blog:"
+
+#: functions.php:2139
+msgid "Show the blog carousel on the front page"
+msgstr "Mostrar el carrusel del blog en la primera página"
+
+#: functions.php:2154
+msgid "Enable reservations:"
+msgstr "Habilitar reservas:"
+
+#: functions.php:2158
+msgid ""
+"Accept reservations for your restaurant on this website. Depends on plugin "
+"being active!"
+msgstr ""
+"Aceptar reservas para su restaurante en este sitio web. ¡Depende de que el "
+"plugin esté activo!"
+
+#: functions.php:2175
+msgid "Enable contact form (plugin dependent):"
+msgstr "Habilitar formulario de contacto (depende del complemento):"
+
+#: functions.php:2180
+msgid ""
+"If enabled it shows the contact form in footer, otherwise it will show a "
+"paragraph of customizable text. Contact form relies on the plugin being "
+"activated."
+msgstr ""
+"Si está activado, muestra el formulario de contacto en el pie de página, de "
+"lo contrario mostrará un párrafo de texto personalizable. El formulario de "
+"contacto se basa en el complemento que se está activando."
+
+#: functions.php:2196
+msgid "Enable dish pages:"
+msgstr "Active la página del plato"
+
+#: functions.php:2200
+msgid ""
+"This option enables dedicated pages for dishes along with a detailed menu of "
+"dishes. Relies on the plugin being activated."
+msgstr ""
+"Esta opción permite páginas dedicadas para platos junto con un menú "
+"detallado de platos. Depende del plugin que se está activando."
+
+#: functions.php:2216
+msgid "Enable haptic feedback:"
+msgstr "Habilitar la retroalimentación táctil:"
+
+#: functions.php:2220
+msgid ""
+"This option enables mobile vibrations on certain buttons and links "
+"throughout the website."
+msgstr ""
+"Esta opción permite vibraciones móviles en ciertos botones y enlaces a "
+"través del sitio web."
+
+#: functions.php:2236
+msgid "Disable FrontPage Map:"
+msgstr "Desactivar mapa de la página principal:"
+
+#: functions.php:2240
+msgid "This hides the map from the Front Page"
+msgstr "Esto oculta el mapa de la página principal"
+
+#: functions.php:2256
+msgid "Enable map marker bounce:"
+msgstr "Habilitar la animación del mapa"
+
+#: functions.php:2260
+msgid "This option makes the map marker bounce - animation"
+msgstr "Esta opción activa la animación del mapa"
+
+#: functions.php:2276
+msgid "Hide Next/Prev Posts in Blog:"
+msgstr "Ocultar Siguiente / Anterior Mensajes en Blog:"
+
+#: functions.php:2280
+msgid ""
+"This option hides Previous/Suggested/Next navigation when preview-ing a Post/"
+"Page"
+msgstr ""
+"Esta opción oculta la navegación anterior / sugerida / siguiente cuando se "
+"visualiza un mensaje / página"
+
+#: functions.php:2296
+msgid "Reset theme settings to default:"
+msgstr "Restablezca la configuracion inicial"
+
+#: functions.php:2307
+msgid "Import Demo Posts:"
+msgstr "Importe los artículos demostrativos"
+
+#: functions.php:2312
+msgid "Import"
+msgstr "Importar"
+
+#: functions.php:2312
+msgid ""
+"When The Steam plugin is active, demo posts, categories and dishes can be "
+"imported with one click"
+msgstr ""
+"Cuando el plugin de Steam está activo, los postes de demo, categorías y "
+"platos se pueden importar con un solo clic"
+
+#: functions.php:2314
+msgid "Please activate The Steam plugin to import demo data"
+msgstr "Active el complemento de Steam para importar datos de demostración"
+
+#: functions.php:2321
+msgid "SimpleXML PHP Module is needed if you want to import demo data"
+msgstr ""
+"Módulo PHP, parte de SimpleXML, es necesario si desea importar datos de "
+"demostración"
+
+#: functions.php:2332
+msgid "Delete all theme settings?"
+msgstr "¿Eliminar todos los ajustes del tema?"
+
+#: functions.php:2333
+msgid "This action cannot be undone!"
+msgstr "Esta acción no se puede deshacer!"
+
+#: functions.php:2335
+msgid "Import demo data?"
+msgstr "Importar datos de demostración?"
+
+#: functions.php:2336
+msgid ""
+"Available in english only, usually takes up to five minutes depending on "
+"your server's connection. If first attempt failed, please increase php "
+"max_execution_time or try again!"
+msgstr ""
+"Disponible en inglés solamente, por lo general tarda hasta cinco minutos "
+"dependiendo de la conexión de su servidor. Si falló el primer intento, por "
+"favor, incremente php max_execution_time o vuelva a intentarlo!"
+
+#: functions.php:2344
+msgid "Social & Contact Details"
+msgstr "Datos sociales y de contacto"
+
+#: functions.php:2348
+msgid "Phone Number:"
+msgstr "Número de teléfono:"
+
+#: functions.php:2353
+msgid ""
+"Phone number used to contact your restaurant and for reservations. It may be "
+"a good idea to also provide country code"
+msgstr ""
+"Número de teléfono utilizado para contactar con su restaurante y para "
+"reservas. Puede ser una buena idea también proporcionar el código de país"
+
+#: functions.php:2358
+msgid "Phone Num in mobile menu:"
+msgstr "Número de teléfono en el menú móvil:"
+
+#: functions.php:2363
+msgid ""
+"Shows the phone number in the mobile menu and is callable from mobile devices"
+msgstr ""
+"Muestra el número de teléfono en el menú móvil y se puede llamar desde "
+"dispositivos móviles"
+
+#: functions.php:2380
+msgid "Address (Street):"
+msgstr "Dirección (Calle);"
+
+#: functions.php:2384
+msgid "Address of your restaurant"
+msgstr "Dirección de su restaurante"
+
+#: functions.php:2389
+msgid "City:"
+msgstr "Ciudad:"
+
+#: functions.php:2394
+msgid "City followed by country (optional)"
+msgstr "Ciudad seguido de país (opcional)"
+
+#: functions.php:2399
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: functions.php:2404
+msgid "Link to your facebook page"
+msgstr "Enlace a tu página de facebook"
+
+#: functions.php:2409
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: functions.php:2413
+msgid "Link to your twitter account"
+msgstr "Enlace a tu página de twitter"
+
+#: functions.php:2418
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+#: functions.php:2423
+msgid "Link to your your foursquare account"
+msgstr "Enlace a tu cuenta de foursquare"
+
+#: functions.php:2428
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: functions.php:2433
+msgid "Link to your instagram account"
+msgstr "Enlace a tu cuenta de instagram"
+
+#: functions.php:2437
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: functions.php:2442
+msgid "Link to your pinterest account"
+msgstr "Enlace a tu cuenta de pinterest"
+
+#: functions.php:2447
+msgid "Trip Advisor URL:"
+msgstr "Trip Advisor URL:"
+
+#: functions.php:2452
+msgid ""
+"Link to your Trip Advisor account is displayed in your footer and mobile menu"
+msgstr ""
+"Enlace a su cuenta de Trip Advisor se muestra en su pie de página y menú "
+"móvil"
+
+#: functions.php:2466
+msgid "Reservations options"
+msgstr "Opciones de Reservaciones"
+
+#: functions.php:2474
+msgid "Reservation system:"
+msgstr "Sistema de reservación:"
+
+#: functions.php:2478
+msgid "Selected between TheSteam integrated reservations system and Open Table"
+msgstr ""
+"Seleccionado entre el sistema de reservas integrado de TheSteam y Open Table"
+
+#: functions.php:2482
+msgid "The Steam"
+msgstr "The Steam"
+
+#: functions.php:2487
+msgid "Open Table"
+msgstr "Open Table"
+
+#: functions.php:2493
+msgid "OpenTable Restaurant ID:"
+msgstr "OpenTable Restaurant ID:"
+
+#: functions.php:2496
+msgid "000000"
+msgstr "000000"
+
+#: functions.php:2498
+msgid "Restaurant ID you received when you registered with Open Table"
+msgstr "ID de restaurante que recibió cuando se registró con Open Table"
+
+#: functions.php:2502
+msgid "Reservation confirmation notification:"
+msgstr "Notificación de confirmación de reserva:"
+
+#: functions.php:2506
+msgid "Send back email to confirm reservation was received"
+msgstr "Envio correo electrónico para confirmar que la reserva fue recibido"
+
+#: functions.php:2521
+msgid "Notify admin for reservation via email:"
+msgstr "Notifica el administrador de la reserva por correo electrónico:"
+
+#: functions.php:2525
+msgid "Admin receives email for every new reservation"
+msgstr "El administrador recibe correo electrónico para cada nueva reserva"
+
+#: functions.php:2540
+msgid "E-Mail Title:"
+msgstr "E-Mail Título:"
+
+#: functions.php:2543
+msgid "Thank you for your reservation!"
+msgstr "Gracias por su reserva!"
+
+#: functions.php:2545
+msgid "Title of the e-mail to be sent to client when receiving a reservation"
+msgstr ""
+"Título del correo electrónico que se enviará al cliente cuando se recibe una "
+"reserva"
+
+#: functions.php:2549
+msgid "E-Mail Body:"
+msgstr "Contenido del correo electrónico:"
+
+#: functions.php:2553
+msgid "Body of the e-mail to send when receiving a reservation"
+msgstr "Contenido del correo electrónico a enviar cuando se recibe una reserva"
+
+#: functions.php:2562
+msgid "Reservation confirmed email:"
+msgstr "Correo electrónico que confirma la reserva:"
+
+#: functions.php:2566
+msgid "Send back email to confirm reservation was accepted"
+msgstr "Envia correo electrónico para confirmar que la reserva fue aceptada"
+
+#: functions.php:2581
+msgid "Confirmation E-Mail Title:"
+msgstr "Título de la confirmación por correo electrónico:"
+
+#: functions.php:2584
+msgid "Reservation confirmed!"
+msgstr "¡Reserva confirmada!"
+
+#: functions.php:2586
+msgid "Title of the e-mail to send when confirming an accepted reservation"
+msgstr ""
+"Título del correo electrónico para enviar quando se confirma una reserva "
+"aceptada"
+
+#: functions.php:2590
+msgid "Confirmation E-Mail Body:"
+msgstr "Contenido del correo electrónico de confirmación:"
+
+#: functions.php:2594
+msgid "Body of the e-mail to send when confirming an accepted reservation"
+msgstr ""
+"Contenido del correo electrónico para enviar quando se confirma una reserva "
+"aceptada"
+
+#: functions.php:2608
+msgid "Max Number of Items:"
+msgstr "Número máximo de elementos:"
+
+#: functions.php:2611
+msgid ""
+"Maximum number of blog featured images to display in the blog carousel on "
+"one page. Actual number depends on client screen size"
+msgstr ""
+"Número máximo de imágenes destacadas en el blog que se mostrarán en el "
+"carrusel del blog en una sola página. El número real depende del tamaño de "
+"la pantalla del cliente"
+
+#: functions.php:2641
+msgid "Total Number of Items:"
+msgstr "Número total de artículos:"
+
+#: functions.php:2644
+msgid ""
+"Total number of blog featured images to display in the blog carousel on one "
+"page. A number too large may impact page loading times."
+msgstr ""
+"Número total de imágenes del blog que se mostrarán en el carrusel del blog "
+"en una sola página. Un número demasiado grande puede afectar los tiempos de "
+"carga de la página."
+
+#: functions.php:2674
+msgid "Auto Play:"
+msgstr "Auto reproducción:"
+
+#: functions.php:2677
+msgid "Allow for the blog carousel to play trough images automatically"
+msgstr ""
+"Permite que el carrusel del blog reproduzca automáticamente las imágenes"
+
+#: functions.php:2681
+msgid "On"
+msgstr "Abrido"
+
+#: functions.php:2686
+msgid "Off"
+msgstr "Apagado"
+
+#: functions.php:2692
+msgid "Slideshow Delay (seconds):"
+msgstr "Retardo de la presentación (segundos):"
+
+#: functions.php:2698
+msgid ""
+"Number of seconds to wait before switching to the next image in the carousel"
+msgstr ""
+"Número de segundos que debe esperar antes de cambiar a la imagen siguiente "
+"en el carrusel"
+
+#: functions.php:2723
+msgid "Latitude:"
+msgstr "Latitud:"
+
+#: functions.php:2728
+msgid ""
+"Latitude of your restaurant location. Gets updated automatically when you "
+"click on the map below"
+msgstr ""
+"Latitud de la ubicación de su restaurante. Se actualiza automáticamente al "
+"hacer clic en el mapa de abajo"
+
+#: functions.php:2732
+msgid "Longitude:"
+msgstr "Longitud:"
+
+#: functions.php:2737
+msgid ""
+"Longitude of your restaurant location. Gets updated automatically when you "
+"click on the map below"
+msgstr ""
+"Longitud de la ubicación de su restaurante. Se actualiza automáticamente al "
+"hacer clic en el mapa de abajo"
+
+#: functions.php:2747
+msgid ""
+"It easy and takes less than a minute to get your FREE Google Maps API Key."
+msgstr ""
+"Es fácil y tarda menos de un minuto en obtener su clave gratuita de la API "
+"de Google Maps."
+
+#: functions.php:2747
+msgid "Obtain API Key!"
+msgstr "¡Obtenga clave API!"
+
+#: functions.php:2751
+msgid "Google Maps API Key:"
+msgstr "Clave del API de Google Maps:"
+
+#: functions.php:2756
+msgid "Google Maps API Key needed for maps authentication"
+msgstr "Clave del API de Google Maps necesaria para la autenticación de mapas"
+
+#: functions.php:2761
+msgid ""
+"To zoom in/out of the map use the scroll wheel on the mouse and click save."
+msgstr ""
+"Para acercar / alejar el mapa, utilice la rueda de desplazamiento del ratón "
+"y haga clic en Guardar."
+
+#: functions.php:2762
+msgid "First added marker will center the map on Front Page!"
+msgstr "¡El primer símbolo agregado centrará el mapa en la página principal!"
+
+#: functions.php:2763
+msgid "Click map to add/remove markers!"
+msgstr "¡Haz clic en el mapa para añadir / eliminar símbolos!"
+
+#: functions.php:2774
+msgid "Error"
+msgstr "Error"
+
+#: functions.php:2775
+msgid "Invalid map coordinates! Please check values and then try again!"
+msgstr ""
+"¡Coordenadas de mapa inválidas! Compruebe los valores y vuelva a intentarlo."
+
+#: functions.php:2799
+msgid "Insufficient permissions!"
+msgstr "¡Permisos insuficientes!"
+
+#: functions.php:2812 functions.php:3404
+msgid "The Steam Blog Demo"
+msgstr "The Steam Blog Demo"
+
+#: functions.php:2850 functions.php:2851 functions.php:2861
+msgid "Subtitle (Optional)"
+msgstr "Subtítulo (Opcional)"
+
+#: functions.php:2853 functions.php:2854
+msgid "Meta Description (SEO)"
+msgstr "Meta Descripción (SEO)"
+
+#: functions.php:2858
+msgid "Dish type"
+msgstr "Tipo del plato"
+
+#: functions.php:2859
+msgid "Dish Price"
+msgstr "Precio del plato"
+
+#: functions.php:2860
+msgid "Dish Contents"
+msgstr "Contenido del plato"
+
+#: functions.php:2862
+msgid "Dish Description (SEO)"
+msgstr "Descripción del plato (SEO)"
+
+#: functions.php:3174
+msgid "Name"
+msgstr "Nombre"
+
+#: functions.php:3175
+msgid "Featured Image"
+msgstr "Foto principal"
+
+#: functions.php:3176
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:3177
+msgid "Slug"
+msgstr "Slug"
+
+#: functions.php:3178
+msgid "Count"
+msgstr "Contar"
+
+#: functions.php:3242
+msgid "Select"
+msgstr "Seleccionar"
+
+#: functions.php:3245 functions.php:3288
+msgid "Please select or upload an image"
+msgstr "Por favor, seleccione o cargue una imagen"
+
+#: functions.php:3253 functions.php:3293
+msgid "Custom Image"
+msgstr "Imagen personalizada"
+
+#: functions.php:3253 functions.php:3293
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+#: functions.php:3283
+msgid "Browse gallery"
+msgstr "Navegar por la galería"
+
+#: functions.php:3339
+msgid "The Steam FrontPage"
+msgstr "The Steam Página delantera"
+
+#: functions.php:3344 parts/mobile-menu.php:31
+msgid "HOME"
+msgstr "HOME"
+
+#: functions.php:3349
+msgid "ABOUT"
+msgstr "ACERCA"
+
+#: functions.php:3364
+msgid "RESERVATIONS"
+msgstr "RESERVAS"
+
+#: functions.php:3369
+msgid "CONTACT"
+msgstr "CONTACTO"
+
+#: functions.php:3519
+msgid ""
+"We are sorry, we encountered error in ajax field - please contact "
+"administrator..."
+msgstr ""
+"Lo sentimos, encontramos error en el campo ajax - por favor póngase en "
+"contacto con el administrador ..."
+
+#: functions.php:3523
+msgid ""
+"We are sorry, we encountered error in ajax field: please contact "
+"administrator..."
+msgstr ""
+"Lo sentimos, encontramos error en el campo ajax - por favor póngase en "
+"contacto con el administrador ..."
+
+#: functions.php:3651
+msgid "Error in reservation processing. Please contact administrator"
+msgstr ""
+"Error en el proceso de reserva. Por favor, póngase en contacto con el "
+"administrador"
+
+#: functions.php:3667
+msgid "you are not allowed to do changes in this area"
+msgstr "No está permitido hacer cambios en esta área"
+
+#: functions.php:3673
+msgid "settings cleared"
+msgstr "Ajustes borrados"
+
+#: functions.php:3676
+msgid "failed to delete theme settings"
+msgstr "Error al eliminar la configuración del tema"
+
+#: index.php:69
+msgid "Search results: "
+msgstr "Resultados de la búsqueda:"
+
+#: index.php:83 taxonomy-dishtype.php:56
+msgid ""
+"Sorry, no posts matched your criteria. Please try other categories from "
+"above."
+msgstr ""
+"Lo sentimos, ninguna entrada coincide con tus criterios. Por favor, prueba "
+"con otras categorías de arriba."
+
+#: page-preview-category-list.php:38
+msgid "Categories preview"
+msgstr "Categorías de vista previa"
+
+#: page-preview-category-list.php:40
+msgid "Browse through all categories"
+msgstr "Examinar todas las categorías"
+
+#: parts/blog-list-menu.php:23 parts/single-menu.php:25
+msgid "Home"
+msgstr "Casa"
+
+#: parts/blog-post.php:36 parts/blog-post.php:38 parts/content-post.php:40
+#: parts/content-post.php:42
+msgid "Posted in"
+msgstr "Publicado en"
+
+#: parts/blog-post.php:36 parts/content-post.php:40
+msgid "category"
+msgstr "categoria"
+
+#: parts/blog-post.php:39 parts/content-post.php:43
+msgid "by"
+msgstr "de"
+
+#: parts/blog-post.php:48 parts/content-post.php:52
+msgid "Ingredients: "
+msgstr "Ingredientes:"
+
+#: parts/blog-post.php:82 parts/content-post.php:102
+msgid "google-plus"
+msgstr "google-plus"
+
+#: parts/blog-random-items.php:45
+msgid "Suggested articles"
+msgstr "Artículos sugeridos"
+
+#: parts/blog-related-items.php:28
+msgid "Previous"
+msgstr "Anterior"
+
+#: parts/blog-related-items.php:35
+msgid "Suggested"
+msgstr "Sugerencias"
+
+#: parts/blog-related-items.php:47
+msgid "Next"
+msgstr "Siguente"
+
+#: parts/content-post.php:27
+#, php-format
+msgid "%d COMMENT"
+msgid_plural "%d COMMENTS"
+msgstr[0] "%d COMENTARIO"
+msgstr[1] "%d COMENTARIOS"
+
+#: parts/content-post.php:66
+msgid "READ MORE"
+msgstr "LEE MÁS"
+
+#: parts/content-post.php:66
+msgid "READ FULL ARTICLE"
+msgstr "LEE EL ARTÍCULO COMPLETO"
+
+#: parts/content-post.php:74
+#, php-format
+msgid "%d VIEW"
+msgid_plural "%d VIEWS"
+msgstr[0] "%d VER"
+msgstr[1] "%d VISTAS"
+
+#: parts/frontpage-blog-carousel.php:75 parts/frontpage-blog-carousel.php:117
+msgid "Comments"
+msgstr "Comentarios"
+
+#: parts/frontpage-jumbotron.php:28
+msgid "Your browser does not support HTML5 video"
+msgstr "Su navegador no admite video HTML5"
+
+#: parts/frontpage-reservations.php:42
+msgid "Guests"
+msgstr "Invitados"
+
+#: parts/frontpage-reservations.php:64
+msgid "Date of your visit"
+msgstr "Fecha de su visita"
+
+#: parts/frontpage-reservations.php:71
+msgid "Time of your visit"
+msgstr "Hora de su visita"
+
+#: parts/frontpage-reservations.php:78
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: parts/frontpage-section4.php:111
+msgid "1"
+msgstr "1"
+
+#: parts/frontpage-section4.php:112
+msgid "2"
+msgstr "2"
+
+#: parts/mobile-menu.php:20
+msgid "Menu"
+msgstr "Menú"
+
+#: parts/mobile-menu.php:76
+msgid "Call us:"
+msgstr "Llámenos:"
+
+#: searchform.php:19
+msgid "Search for:"
+msgstr "Busque por:"
+
+#: searchform.php:21
+msgid "search ..."
+msgstr "busque ..."
+
+#: tgmp/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "Tienes que instalar los complementos necesarios"
+
+#: tgmp/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr "Instale los complementos"
+
+#: tgmp/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalación del complemento: %s"
+
+#: tgmp/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Actualización del complemento: %s"
+
+#: tgmp/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la complemento API."
+
+#: tgmp/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente complement: %1$s."
+msgstr[1] "Este tema necesita los siguientes complementos: %1$s."
+
+#: tgmp/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente complemento: %1$s."
+msgstr[1] "Este tema recomienda los siguientes complementos: %1$s."
+
+#: tgmp/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente complemento debe actualizarse a su última versión para "
+"garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes complementos necesitan actualizarse a su última versión para "
+"garantizar la máxima compatibilidad con este tema: %1$s."
+
+#: tgmp/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] ""
+"Hay actualizaciones disponibles para los siguientes complementos: %1$s."
+
+#: tgmp/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente complemento requerido está actualmente inactivo: %1$s."
+msgstr[1] ""
+"Los siguientes complementos necesarios están actualmente inactivos: %1$s."
+
+#: tgmp/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente complemento recomendado está inactivo: %1$s."
+msgstr[1] ""
+"Los siguientes complementos recomendados están actualmente inactivos: %1$s."
+
+#: tgmp/class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comience a instalar el complemento"
+msgstr[1] "Comience a instalar los complementos"
+
+#: tgmp/class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comience a actualizar el complemento"
+msgstr[1] "Comience a actualizar los complementos"
+
+#: tgmp/class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comience a activar el complemento"
+msgstr[1] "Comience a activar los complementos"
+
+#: tgmp/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de complementos requerido"
+
+#: tgmp/class-tgm-plugin-activation.php:384
+#: tgmp/class-tgm-plugin-activation.php:825
+#: tgmp/class-tgm-plugin-activation.php:2531
+#: tgmp/class-tgm-plugin-activation.php:3578
+msgid "Return to the Dashboard"
+msgstr "Regreso al panel de control"
+
+#: tgmp/class-tgm-plugin-activation.php:385
+#: tgmp/class-tgm-plugin-activation.php:3157
+msgid "Plugin activated successfully."
+msgstr "Complemento activado correctamente."
+
+#: tgmp/class-tgm-plugin-activation.php:386
+#: tgmp/class-tgm-plugin-activation.php:2950
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente complemento se ha activado correctamente:"
+msgstr[1] "Los siguientes complementos se activaron correctamente:"
+
+#: tgmp/class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ninguna acción tomada. El complemento %1$s ya estaba activo."
+
+#: tgmp/class-tgm-plugin-activation.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"El complemento no está activado. Se necesita una versión superior de %s para "
+"este tema. Actualice el complemento."
+
+#: tgmp/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los complementos instalados y activados correctamente. %1$s"
+
+#: tgmp/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: tgmp/class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más complementos necesarios o recomendados para instalar, "
+"actualizar o activar."
+
+#: tgmp/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Póngase en contacto con el administrador de este sitio para obtener ayuda."
+
+#: tgmp/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita ser actualizado para ser compatible con su tema."
+
+#: tgmp/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+#: tgmp/class-tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete de complemento remoto no contiene una carpeta con el slug deseado "
+"y el cambio de nombre no funcionó."
+
+#: tgmp/class-tgm-plugin-activation.php:932
+#: tgmp/class-tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Póngase en contacto con el proveedor de complementos y pídales que "
+"empaqueten su complemento de acuerdo con las directrices de WordPress."
+
+#: tgmp/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete de complemento remoto consta de más de un archivo, pero los "
+"archivos no están empaquetados en una carpeta."
+
+#: tgmp/class-tgm-plugin-activation.php:1119
+#: tgmp/class-tgm-plugin-activation.php:2946
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: tgmp/class-tgm-plugin-activation.php:1980
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: tgmp/class-tgm-plugin-activation.php:2271
+msgid "Required"
+msgstr "Necesario"
+
+#: tgmp/class-tgm-plugin-activation.php:2274
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: tgmp/class-tgm-plugin-activation.php:2290
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: tgmp/class-tgm-plugin-activation.php:2293
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: tgmp/class-tgm-plugin-activation.php:2296
+msgid "Pre-Packaged"
+msgstr "Preenvasado"
+
+#: tgmp/class-tgm-plugin-activation.php:2313
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: tgmp/class-tgm-plugin-activation.php:2317
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: tgmp/class-tgm-plugin-activation.php:2319
+msgid "Active"
+msgstr "Activo"
+
+#: tgmp/class-tgm-plugin-activation.php:2325
+msgid "Required Update not Available"
+msgstr "La actualización necesaria no está disponible"
+
+#: tgmp/class-tgm-plugin-activation.php:2328
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: tgmp/class-tgm-plugin-activation.php:2331
+msgid "Update recommended"
+msgstr "Actualizacion recomendada"
+
+#: tgmp/class-tgm-plugin-activation.php:2340
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: tgmp/class-tgm-plugin-activation.php:2386
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todas <span class=\"count\">(%s)</span>"
+msgstr[1] "Todas <span class=\"count\">(%s)</span>"
+
+#: tgmp/class-tgm-plugin-activation.php:2390
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#: tgmp/class-tgm-plugin-activation.php:2394
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(%s)</span>"
+
+#: tgmp/class-tgm-plugin-activation.php:2398
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: tgmp/class-tgm-plugin-activation.php:2480
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: tgmp/class-tgm-plugin-activation.php:2488
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: tgmp/class-tgm-plugin-activation.php:2496
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: tgmp/class-tgm-plugin-activation.php:2508
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: tgmp/class-tgm-plugin-activation.php:2531
+msgid "No plugins to install, update or activate."
+msgstr "No hay complementos para instalar, actualizar o activar."
+
+#: tgmp/class-tgm-plugin-activation.php:2545
+msgid "Plugin"
+msgstr "Plugin"
+
+#: tgmp/class-tgm-plugin-activation.php:2546
+msgid "Source"
+msgstr "Fuente"
+
+#: tgmp/class-tgm-plugin-activation.php:2547
+msgid "Type"
+msgstr "Tipo"
+
+#: tgmp/class-tgm-plugin-activation.php:2551
+msgid "Version"
+msgstr "Versión"
+
+#: tgmp/class-tgm-plugin-activation.php:2552
+msgid "Status"
+msgstr "Estado"
+
+#: tgmp/class-tgm-plugin-activation.php:2601
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: tgmp/class-tgm-plugin-activation.php:2606
+#, php-format
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#: tgmp/class-tgm-plugin-activation.php:2612
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: tgmp/class-tgm-plugin-activation.php:2682
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del complemento:"
+
+#: tgmp/class-tgm-plugin-activation.php:2715
+msgid "Install"
+msgstr "Instalar"
+
+#: tgmp/class-tgm-plugin-activation.php:2721
+msgid "Update"
+msgstr "Actualizar"
+
+#: tgmp/class-tgm-plugin-activation.php:2724
+msgid "Activate"
+msgstr "Activar"
+
+#: tgmp/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"No se ha seleccionado ningún complemento para su instalación. Ninguna acción "
+"tomada."
+
+#: tgmp/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para actualizarse. Ninguna acción tomada."
+
+#: tgmp/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: tgmp/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay complementos disponibles para actualizarse en este momento."
+
+#: tgmp/class-tgm-plugin-activation.php:2906
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para activarlos. Ninguna acción tomada."
+
+#: tgmp/class-tgm-plugin-activation.php:2932
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activarse en este momento."
+
+#: tgmp/class-tgm-plugin-activation.php:3156
+msgid "Plugin activation failed."
+msgstr "Error de activación del complemento."
+
+#: tgmp/class-tgm-plugin-activation.php:3496
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualización del complemento %1$s (%2$d/%3$d)"
+
+#: tgmp/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Se ha producido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#: tgmp/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Error en la instalación del %1$s ."
+
+#: tgmp/class-tgm-plugin-activation.php:3505
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Se inicia el proceso de instalación y activación. Este proceso puede tomar "
+"un tiempo, así que por favor tenga paciencia."
+
+#: tgmp/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: tgmp/class-tgm-plugin-activation.php:3507
+#: tgmp/class-tgm-plugin-activation.php:3515
+msgid "Show Details"
+msgstr "Mostre detalles"
+
+#: tgmp/class-tgm-plugin-activation.php:3507
+#: tgmp/class-tgm-plugin-activation.php:3515
+msgid "Hide Details"
+msgstr "Oculte detalles"
+
+#: tgmp/class-tgm-plugin-activation.php:3508
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: tgmp/class-tgm-plugin-activation.php:3510
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación y activación del complemento %1$s (%2$d/%3$d)"
+
+#: tgmp/class-tgm-plugin-activation.php:3513
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Se inicia el proceso de instalación. Este proceso puede tomar un tiempo, así "
+"que por favor tenga paciencia."
+
+#: tgmp/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: tgmp/class-tgm-plugin-activation.php:3516
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: tgmp/class-tgm-plugin-activation.php:3518
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación del complemento %1$s (%2$d/%3$d)"
+
+#. Theme Name of the plugin/theme
+msgid "TheSteam"
+msgstr "TheSteam"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.webdotinc.net/thesteam"
+msgstr "http://www.webdotinc.net/thesteam"
+
+#. Description of the plugin/theme
+msgid "The Steam restaurant WordPress theme"
+msgstr "The Steam restaurant WordPress theme"
+
+#. Author of the plugin/theme
+msgid "Web Dot Inc"
+msgstr "Web Dot Inc"
+
+#. Author URI of the plugin/theme
+msgid "www.webdotinc.com"
+msgstr "www.webdotinc.com"
+
+#~ msgid "Reach us at:"
+#~ msgstr "Contactanos a:"
+
+#~ msgid "Frontpage Jumbotron:"
+#~ msgstr "Encabezado de la página principal"
+
+#~ msgid "Choose between an Image or HTML5 Video for the FrontPage Jumbotron"
+#~ msgstr ""
+#~ "Elija entre una imagen o un video HTML5 para el encabezado de la página "
+#~ "principal"
+
+#~ msgctxt "JosefinSans font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgid "Please select logo image"
+#~ msgstr "Por favor, seleccione la imagen del logotipo"
+
+#~ msgid "Please select menu logo image"
+#~ msgstr "Por favor, seleccione la imagen del logotipo del menú"
+
+#~ msgid "WP SmushIt Plugin"
+#~ msgstr "WP SmushIt Plugin"
+
+#~ msgid "Click map to add/remove up to 5 markers!"
+#~ msgstr "¡Haga clic en el mapa para añadir / eliminar hasta 5 símbolos!"
+
+#~ msgid "Easy Google Fonts Plugin"
+#~ msgstr "Easy Google Fonts Plugin"
+
+#~ msgid "Location coordinates"
+#~ msgstr "Coordenadas de ubicación"
+
+#~ msgid "CONTACT US"
+#~ msgstr "CONTÁCTENOS"
+
+#~ msgid ""
+#~ "This option enables the contact form in footer. Relies on the plugin "
+#~ "being activated."
+#~ msgstr ""
+#~ "Esta opción activa el formulario de contacto en pie de página. Depende "
+#~ "del plugin que se está activando."
+
+#~ msgid "All Categories"
+#~ msgstr "Todas las categorias"
+
+#~ msgid ""
+#~ "Imported demo data is available in english language only. This process "
+#~ "usually takes up to five minutes, depending on your server's connection. "
+#~ "Please don't interrupt this process!"
+#~ msgstr ""
+#~ "Los datos de demostración importados están disponibles sólo en inglés. "
+#~ "Este proceso suele tardar hasta cinco minutos, dependiendo de la conexión "
+#~ "del servidor. Por favor, no interrumpa este proceso!"
+
+#~ msgid "Business E-Mail:"
+#~ msgstr "Correo electrónico:"
+
+#~ msgid "E-Mail address of your business"
+#~ msgstr "Correo electrónico de su empresa"
+
+#~ msgid ""
+#~ "Maximum number of blog featured images to display in the blog carousel. "
+#~ "Actual number depends on client screen size"
+#~ msgstr ""
+#~ "Número máximo de imágenes destacadas en el blog que se mostrarán en el "
+#~ "carrusel del blog. El número real depende del tamaño de la pantalla del "
+#~ "cliente"
+
+#~ msgid ""
+#~ "Restaurand cuisine, i.e: Fusion Cuisine. Will be displayed in the footer, "
+#~ "if set."
+#~ msgstr ""
+#~ "Cocina de restaurante, es decir: Fusion Cuisine. Se mostrará en el pie de "
+#~ "página, si se establece."
+
+#~ msgid ""
+#~ "Phone number used to contact your restaurant and for reservations. It may "
+#~ "be a good ideea to also provide country code"
+#~ msgstr ""
+#~ "Número de teléfono utilizado para contactar su restaurante y para hacer "
+#~ "reservaciones. Puede ser una buena ideea proporcionar el código de su país"
+
+#~ msgid "Enable mouse wheel scrolling:"
+#~ msgstr "Habilita el desplazamiento de la rueda del ratón:"
+
+#~ msgid "Allow for mouse wheel scrolling on the carousel"
+#~ msgstr "Permite desplazamiento de la rueda del ratón en el carrusel"
+
+#~ msgid "COMMENTS"
+#~ msgstr "COMENTARIOS"
+
+#~ msgid "VIEWS"
+#~ msgstr "VER"
+
+#~ msgid "selected"
+#~ msgstr "seleccionado"
+
+#~ msgid ""
+#~ "If The Steam plugin is active, dishes and dish types will also be "
+#~ "imported. This usually takes up to five minutes, depending on your "
+#~ "server's connection. Please don't interrupt this process!"
+#~ msgstr ""
+#~ "Si el plugin Steam está activo, también se importarán platos y tipos de "
+#~ "platos. Esto suele tardar hasta cinco minutos, dependiendo de la conexión "
+#~ "de su servidor. Por favor, no interrumpa este proceso!"
+
+#~ msgid "Front Page Menu - Only for Front-Page (max 6 items)"
+#~ msgstr ""
+#~ "Menú de Página Frontal - Sólo para Página Frontal (máximo 6 artículos)"
+
+#~ msgid "To customize theme appearance please click"
+#~ msgstr "Para personalizar la apariencia del tema, haga clic en"
+
+#~ msgid "here"
+#~ msgstr "aqui"
+
+#~ msgid "All categories"
+#~ msgstr "Todas las categorias"
+
+#~ msgid " COMMENTS"
+#~ msgstr "COMENTARIOS"
+
+#~ msgid " VIEWS"
+#~ msgstr "VISTAS"
+
+#~ msgid "Restaurant cuisine type"
+#~ msgstr "Tipo de cocina del restaurante"
+
+#~ msgid "Menus color"
+#~ msgstr "Color de los menús"
+
+#~ msgid "Header text first line color (title)"
+#~ msgstr "Texto del encabezamiento - color de primera línea (título)"
+
+#~ msgid "Header text first line color (subtitle)"
+#~ msgstr "Texto del encabezamiento - color de primera línea (subtítulo)"
+
+#~ msgid "All posts header image"
+#~ msgstr "Imagen de encabezamiento para todos los artículos "
+
+#~ msgid "All posts header image settings"
+#~ msgstr ""
+#~ "Los ajustes para el imagen de encabezamiento para todos los artículos "
+
+#~ msgid "All"
+#~ msgstr "Todos"
+
+#~ msgid "Results for: "
+#~ msgstr "Resultados por:"
+
+#~ msgid "Copyright"
+#~ msgstr "Derechos de autor"
+
+#~ msgid "FOLLOW US ON"
+#~ msgstr "SÍGUENOS"
+
+#~ msgid "Accept reservations for your restaurant on this website"
+#~ msgstr "Acepta reservas para tu restaurante en este sitio web"
+
+#~ msgid ""
+#~ "Oops! Looks like you have already sent a message earlier! Please contact "
+#~ "us by phone. Thank you!"
+#~ msgstr ""
+#~ "Ops! Ya enviaste un mensaje! Por favor contáctenos por teléfono! Gracias!"
+
+#~ msgid "We apologize, sending your message has failed..."
+#~ msgstr "Pedimos disculpes! El envío de su mensaje ha fallado..."
+
+#~ msgid ""
+#~ "Unfortunately your message could not be sent. Please try again later or "
+#~ "contact us by phone. Thank you!"
+#~ msgstr ""
+#~ "Desafortunadamente su mensaje no pudo ser enviado. Inténtelo de nuevo más "
+#~ "tarde o contáctenos por teléfono. ¡Gracias!"
+
+#~ msgid ""
+#~ "Thank you! We have received your message and will get back to you soon!"
+#~ msgstr "Gracias!  Hemos recibido su mensaje, espera por nuestra respuesta!"
+
+#~ msgid ""
+#~ "Oops! Looks like you already made a reservation just earlier! Please call "
+#~ "us to make a reservation or try again later. Thank you!"
+#~ msgstr ""
+#~ "Ops! Parece que ya hiciste una reservación! Por favor llamanos por "
+#~ "teléfono para hacer una reservación o intenta de nuevo. Gracias!"
+
+#~ msgid "New reservation received!"
+#~ msgstr "Nueva reserva recibida!"
+
+#~ msgid "New reservation on:"
+#~ msgstr "Nueva reserva en:"
+
+#~ msgid "Booked for:"
+#~ msgstr "Reservado para:"
+
+#~ msgid ""
+#~ "Sorry, we could not book your table. Please call us to make a "
+#~ "reservation! Thank you for your understanding!"
+#~ msgstr ""
+#~ "Lo sentimos, no pudimos reservar tu mesa. Llámenos para hacer una "
+#~ "reserva! ¡Gracias por su comprensión!"
+
+#~ msgid ""
+#~ "Thank you for your reservation! We will call you back for confirmation!"
+#~ msgstr "Gracias por su reserva! ¡Le llamaremos para confirmación!"
+
+#~ msgid ""
+#~ "Sorry, we could not book your table. Please call us to make a "
+#~ "reservation! Thank you for your understanding"
+#~ msgstr ""
+#~ "Lo sentimos, no pudimos reservar tu mesa. Llámenos para hacer una "
+#~ "reserva! Gracias por su comprensión"
+
+#~ msgid "Try something from bellow:"
+#~ msgstr "Pruebe algo de abajo:"
+
+#~ msgid "More ..."
+#~ msgstr "Más ..."
+
+#~ msgid "Front Page Menu"
+#~ msgstr "Menú de la página principal"
+
+#~ msgid ""
+#~ "Demo posts, categories and dishes will now be created! This usually takes "
+#~ "up to five minutes, depending on your server's connection. Please don't "
+#~ "interrupt this process!"
+#~ msgstr ""
+#~ "Ahora se crearán artículos demostrativos, categorías y platos. Este "
+#~ "proceso suele tardar hasta cinco minutos, dependiendo de la conexión de "
+#~ "su servidor. Por favor, no interrumpa este proceso!"
+
+#~ msgid "All Dishes"
+#~ msgstr "Todos los platos"

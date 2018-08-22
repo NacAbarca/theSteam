@@ -1,0 +1,23 @@
+Hi!
+
+Thank you for purchasing our theme on ThemeForest! Here are a few steps that will help you setup your theme to look like you saw on the demo page!
+
+Steps:
+
+1) Activate The Steam plugin
+2) In the admin panel, go to
+	Appearance > Theme Settings > General (Tab)
+	Click on "Import" and wait for the import process to finalize.
+
+	!!! If import fails, this most likely happened because you need to increase php max_execution_time !!!
+
+	If you can't increase max_execution_time, simply press Import multiple times until all data is imported!
+
+3) In the admin panel, go to
+	Settings > Reading
+	Front page displays - Select "A static page"
+	From the dropdown menu, for Front page select "TheSteam Front Page"
+
+That's all!
+
+If you have any questions, please don't hesitate to contact us trough ThemeForest contact form! We answer quickly!
